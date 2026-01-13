@@ -1,0 +1,8 @@
+body {
+	background-color: #fff;
+}
+
+.hero {
+	background: linear-gradient(#80979b, #80b8cb);
+	height: 50%;
+}
