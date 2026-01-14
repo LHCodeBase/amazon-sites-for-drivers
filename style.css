@@ -6,4 +6,21 @@ body {
 	background: linear-gradient(#80979b, #80b8cb);
 	height: 50%;
 }
+
+.button {
+	display: flex;
+	max-height: 32px;
+}
+
+#home {
+	max-width: 52px;
+}
+
+img[src$=".svg"] {
+	height: auto;
+}
+
+
+
+
 /* vim: set tabstop=2 shiftwidth=2 softtabstop=2 noexpandtab: */
