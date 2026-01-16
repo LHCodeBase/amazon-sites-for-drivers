@@ -2,23 +2,41 @@ body {
     background-color: #fff;
 }
 
+.wrapper {
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+}
+
 .hero {
 	background: linear-gradient(#80979b, #80b8cb);
 	height: 50%;
 }
 
-.button {
+.icon {
 	display: flex;
 	max-height: 32px;
+	max-width: 52px;
+}
+
+.search-group {
+	align-self: flex-end;
+	display:flex;
 }
 
 #home {
-	max-width: 52px;
+	display: flex;
+	justify-self: flex-start;
+}
+#magnifying-glass {
+	display: flex;
+	justify-self: flex-end;
 }
 
 img[src$=".svg"] {
 	height: auto;
 }
+
 
 
 

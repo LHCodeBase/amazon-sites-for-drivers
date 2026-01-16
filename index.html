@@ -9,9 +9,17 @@
 	<link rel="stylesheet" href="./style.css" />
 </head>
 <header>
-	<div>
-		<div id="home" class="button">
-			<img src="./svg/home.svg" />
+	<div class="wrapper">
+		<div id="home" class="icon">
+			<img src="./svg/fa-home.svg" />
+		</div>
+		<div id="search-group">
+				<label for="site-search">Site: </label>
+				<!-- Note: maxlength="5" sets input max, not box size -->
+				<input type="search" id="site-search" name="query" size="5"/>
+			<div id="magnifying-glass" class="icon">
+				<img src="svg/fa-magnifying-glass.svg" />
+			</div>
 		</div>
 	</div>
 </header>
