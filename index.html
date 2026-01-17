@@ -7,6 +7,7 @@
 		Amazon Sites for Drivers
 	</title>
 	<link rel="stylesheet" href="./style.css" />
+	<script src="./js/load-cities.js"></script>
 </head>
 <header>
 	<div class="wrapper">
@@ -16,7 +17,20 @@
 		<div id="search-group">
 				<label for="site-search">Site: </label>
 				<!-- Note: maxlength="5" sets input max, not box size -->
-				<input type="search" id="site-search" name="query" size="5"/>
+				<!-- Note: `size="5" doesn't allow for 5 characters...`-->
+				<input type="search" id="site-search" name="query" size="7"/>
+
+				<!-- TODO: use sitelist names as datalist -->
+				<!-- Test input  -->
+				<input type="text" list="cars" />
+				<datalist id="cars">
+				<option>Volvo</option>
+				<option>Saab</option>
+				<option>Mercedes</option>
+				<option>Audi</option>
+				</datalist>
+				<!-- End test input  -->
+
 			<div id="magnifying-glass" class="icon">
 				<img src="svg/fa-magnifying-glass.svg" />
 			</div>
