@@ -1,10 +1,21 @@
-const data = fetch("./site-list.json")
-    .then(response => {
-        console.log(response); /* debug */
-        /* .json() returns another promise that needs to be handled */
-        response.json();
+/* NOTE: just make a separate siteIds.json file */
+let sites = null;
+let siteIds = new Array;
+fetch("./site-list.json")
+    .then(response => response.json())
+    .then(values => {
+        sites = values.sites
+        for (var i = 0; i < sites.length; i++) {
+            siteIds.push(sites[i]['id'])
+        };
+        let list = document.getElementById('site-list');
+        for (var i = 0; i < siteIds.length; i++) {
+            let option = document.createElement("option");
+            option.innerText = siteIds[i];
+            list.appendChild(option);
+        }
     })
-    .then(_data => console.log(_data))
     .catch(error => {
-        console.log("Problem loading JSON data")
-    })
+        console.log(error)
+    });
+
