@@ -2593,6 +2593,12 @@
 	},
 	{
 		"state":"Indiana",
+		"id":"DIN6",
+		"type":"",
+		"address":"8610 Avionics Dr, Fort Wayne, IN 46809, United States"
+	},
+	{
+		"state":"Indiana",
 		"id":"IND1",
 		"type":"FC",
 		"address":"4255 Anson Boulevard, Whitestown, IN 46075"
@@ -3211,9 +3217,27 @@
 	},
 	{
 		"state":"Michigan",
+		"id":"DDT1",
+		"type":"",
+		"address":"1400 E 10 Mile Rd, Ste 190, Hazel Park, MI 48030, United States"
+	},
+	{
+		"state":"Michigan",
+		"id":"DDT4",
+		"type":"",
+		"address":"7009 W Mount Hope Hwy Lansing, MI 48917 United States"
+	},
+	{
+		"state":"Michigan",
 		"id":"DTW5",
 		"type":"SC",
 		"address":"19991 Brownstown Center Dr, Brownstown Charter Twp, MI 48183, United State"
+	},
+	{
+		"state":"Michigan",
+		"id":"DTW8",
+		"type":"",
+		"address":"9075 N Haggerty Rd, Plymouth, MI 48170, United States"
 	},
 	{
 		"state":"Michigan",
@@ -3223,15 +3247,51 @@
 	},
 	{
 		"state":"Michigan",
+		"id":"DET6",
+		"type":"FC",
+		"address":"20110 Woodward Ave Detroit, MI 48203 United States"
+	},
+	{
+		"state":"Michigan",
 		"id":"DTW2",
 		"type":"FC",
 		"address":"32801 Ecorse Rd, Romulus, MI 48174, United States"
 	},
 	{
 		"state":"Michigan",
+		"id":"DTW9",
+		"type":"FC",
+		"address":"33700 Prescott St, Romulus, MI 48174, United States"
+	},
+	{
+		"state":"Michigan",
+		"id":"DGR6",
+		"type":"",
+		"address":"3951 Trade Dr Grand Rapids, MI 49508 United States"
+	},
+	{
+		"state":"Michigan",
+		"id":"DGR8",
+		"type":"",
+		"address":"3415 Northridge Dr NW, Walker, MI 49544, United States"
+	},
+	{
+		"state":"Michigan",
 		"id":"DTW3",
 		"type":"FC",
 		"address":"23 mile and mound roads, Shelby, MI, 48316"
+	},
+	{
+		"state":"Michigan",
+		"id":"HDT9",
+		"type":"",
+		"address":"33701 Prescott St, Romulus, MI 48174, United States"
+	},
+	{
+		"state":"Michigan",
+		"id":"LAN2",
+		"type":"",
+		"address":"6500 W Mount Hope Hwy Lansing, MI 48917 United States"
 	},
 	{
 		"state":"Michigan",
