@@ -9,8 +9,10 @@
 	<link rel="stylesheet" href="./style.css" />
 	<script src="./js/load-cities.js"></script>
 </head>
+<body>
 <header>
 	<div class="wrapper">
+		<!-- Do we even need a home button? -->
 		<div id="home" class="icon">
 			<img src="./svg/fa-home.svg" />
 		</div>
@@ -20,22 +22,23 @@
 				<!-- options set with script -->
 				<datalist id="site-list"></datalist>
 				<button type="button"	id="clear-input">Clear</button>
-
 			<!-- <div id="magnifying-glass" class="icon">
 				<img src="svg/fa-magnifying-glass.svg" />
 			</div> -->
 		</div>
 	</div>
 </header>
-<body>
+<main>
 	<div class="hero">
 		<h2 id="site"></h2>
 		<p id="warnings-p"><ul id="warnings-ul"></ul></p>
 		<p id="preferredRoutes"></p>
 	</div>
-</body>
+</main>
 <footer>
+	<p>This site is meant to be used as a collaborative effort amongst drivers, and should not be taken as fact.  Please use your own judgement, and feel free to help if something is incorrect. As always, you are the captain of your ship.</p>
 </footer>
+</body>
 	<script src="./js/load-info.js"></script>
 </html>
 

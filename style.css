@@ -2,6 +2,12 @@ body {
     background-color: #fff;
 }
 
+main {
+	position: relative;
+	height: 100%;
+	background: linear-gradient(#80979b, #80b8cb);
+}
+
 .wrapper {
 	display: flex;
 	width: 100%;
@@ -9,7 +15,6 @@ body {
 }
 
 .hero {
-	background: linear-gradient(#80979b, #80b8cb);
 	height: 50%;
 }
 
@@ -37,7 +42,13 @@ img[src$=".svg"] {
 	height: auto;
 }
 
-
+footer {
+	position: fixed;
+	height: auto;
+	background-color: #fff;
+	bottom: 0;
+	font-style: italic;
+}
 
 
 
