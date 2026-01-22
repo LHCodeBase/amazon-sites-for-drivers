@@ -1,1 +1,1 @@
-jq "{sites: ([.sites[] | {id}] | sort_by(.id))}" site-list.json > onlySites.json
+jq '{"sites": [.sites | keys[]] }' data/siteListMaster.json > data/siteIds.json
