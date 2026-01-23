@@ -2,19 +2,34 @@ const userQuery = document.getElementById("site-choice");
 const clearInput = document.getElementById("clear-input");
 const elSite = document.getElementById("site");
 const elWarningsUl = document.getElementById("warnings-ul");
-const elPreferredRoutes = document.getElementById("preferredRoutes");
+const elRoutes = document.getElementById("preferredRoutes");
+const welcomeMsg = "Select site";
+
+elSite.innerText = welcomeMsg;
 
 
 userQuery.addEventListener('change',
 	(e) => {
 		if (siteIds.includes(e.target.value)) {
+			/* Site Id */
 			elSite.innerText = e.target.value;
+
 			/* grave notation doesn't work for this you must use bracket notation */
+
+			/* Warnings */
 			sites[e.target.value]["warnings"].forEach((text) => {
 				let li = document.createElement("li");
 				li.innerText = text;
 				elWarningsUl.appendChild(li);
 			})
+
+			/* Route */
+			sites[e.target.value]["routes"].forEach((text) => {
+				let li = document.createElement("li");
+				li.innerText = text;
+				elRoutes.appendChild(li);
+			})
+
 		}
 	}
 );
@@ -31,6 +46,9 @@ userQuery.addEventListener('click',
 clearInput.addEventListener('click', 
 	(e) => {
 		userQuery.value = "";
+		elSite.innerText = welcomeMsg;
+		elWarningsUl.innerText = "";
+		elRoutes.innerText = "";
 	}
 );
 

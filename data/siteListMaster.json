@@ -4,3766 +4,3766 @@
 		"type":"FC",
 		"address":"975 Powder Plant Rd, Bessemer, AL 35022, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DPX7":{
 		"state":"Alabama",
 		"type":"",
 		"address":"3405 S. McQueen Rd, Chandler, AZ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MOB5":{
 		"state":"Alabama",
 		"type":"DC",
 		"address":"6735 Trippel Rd, Theodore, AL 36582, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MOB9":{
 		"state":"Alabama",
 		"type":"",
 		"address":"6735 Trippel Rd., Theodore, AL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHB":{
 		"state":"Alabama",
 		"type":"",
 		"address":"4675 Appaloosa Dr, Irondale, AL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHD":{
 		"state":"Alabama",
 		"type":"",
 		"address":"4675 Appaloosa Drive, Irondale, AL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SAZ1":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"3333 S 7th St., Phoenix, AZ 850401182 , Maricopa County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TUS1":{
 		"state":"Arizona",
 		"type":"Reverse Logistics",
 		"address":"533 W Lower Buckeye Rd, Phoenix, Arizona, 85043 , Maricopa County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TUS2":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"6701 S. Kolb Rd., Tucson, AZ 85756 , Pima County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "AZA4":{
 		"state":"Arizona",
 		"type":"",
 		"address":"3333 S 59th Ave, Phoenix, Arizona",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "AZA5":{
 		"state":"Arizona",
 		"type":"",
 		"address":"6000 W Van Buren St., Phoenix, Arizona",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "AZA6":{
 		"state":"Arizona",
 		"type":"",
 		"address":"2150 East Riverview Drive, Phoenix, Arizona",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DPX1":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"500 S. 48th Street, Phoenix, AZ 85034",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DPX3":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"7 E Chandler Blvd, Chandler, AZ 85225",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DPX8":{
 		"state":"Arizona",
 		"type":"",
 		"address":"7875 W Buckeye Rd, Phoenix, AZ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DTU8":{
 		"state":"Arizona",
 		"type":"",
 		"address":"3003 S 38th St, Phoenix, AZ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "GYR4":{
 		"state":"Arizona",
 		"type":"",
 		"address":"10205 W Roosevelt St, Avondale, AZ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHX3":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"6835 W. Buckeye Rd. Phoenix, AZ, 85043",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHX5":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"16920 W. Commerce Drive, Goodyear, AZ 85338",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHX6":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"4750 W. Mohave Street, Phoenix, AZ 85043",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHX7":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"800 N. 75th Avenue, Phoenix, AZ 85043",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHX8":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"800 N. 75th Ave Phoenix, AZ, 85043 – Maricopa County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHX9":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"777 S 79th Avenue, Tolleson, Maricopa County, AZ 85353 Arizona",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RAZ1":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"22 W Washington St, Phoenix, AZ 85004",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RPX1":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"7 W Broadway Rd, Phoenix, AZ 85040",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBJ":{
 		"state":"Arizona",
 		"type":"",
 		"address":"1104 W Geneva Dr, Tempe, AZ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBW": {
 		"state":"Arizona",
 		"type":"",
 		"address":"1104 W Geneva Dr, Tempe, AZ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPR":{
 		"state":"Arizona",
 		"type":"",
 		"address":"9414 E San Salvador Dr, Scottsdale, AZ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TAZ1":{
 		"state":"Arizona",
 		"type":"",
 		"address":"500 S 48th St, Phoenix, AZ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TFC1":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"5050 W. Mohave Street, Phoenix, AZ 85043",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UAZ1":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"Phoenix, AZ 85001",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSH":{
 		"state":"Arizona",
 		"type":"FC",
 		"address":"7037 West Van Buren Street, Pheonix, AZ 85043",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ONT3":{
 		"state":"California",
 		"type":"FC",
 		"address":"1910 &amp; 2020 E Central Ave. San Bernardino, CA, 92408 – San Bernardino County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ONT4":{
 		"state":"California",
 		"type":"FC",
 		"address":"1910 &amp; 2020 E Central Ave. San Bernardino, CA, 92408 – San Bernardino County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ABE7":{
 		"state":"California",
 		"type":"FC",
 		"address":"12510 Micro Dr, Mira Loma, CA 91752",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BEK1":{
 		"state":"California",
 		"type":"",
 		"address":"2495 Bancroft Way Room 235, MLK Student Union Building, Berkeley,",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BEK1":{
 		"state":"California",
 		"type":"",
 		"address":"2495 Bancroft Way Room 235, MLK Student Union Building, Berkeley,",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BFL1":{
 		"state":"California",
 		"type":"Corporate Office",
 		"address":"1601 Petrol Road, Bakersfield, California, 93308 , Kern County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BUR2":{
 		"state":"California",
 		"type":"",
 		"address":"925 Westwood Boulevard, Los Angeles, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CCO1":{
 		"state":"California",
 		"type":"FC",
 		"address":"7300 Central Ave, Highland, CA 92407",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CSD1":{
 		"state":"California",
 		"type":"",
 		"address":"9500 Gilman Drive #0102, La Jolla, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DAV1":{
 		"state":"California",
 		"type":"FC",
 		"address":"1 Shields Ave, Room 182, Davis, CA 95616",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCA2":{
 		"state":"California",
 		"type":"DC",
 		"address":"5250 Goodman Road, Eastvale, CA 92880 – Riverside County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCK1":{
 		"state":"California",
 		"type":"FC",
 		"address":"123-127 E Yosemite Ave, Manteca, CA 95336",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLA1":{
 		"state":"California",
 		"type":"FC",
 		"address":"900 W Florence Ave., Inglewood, CA 90301",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLA2":{
 		"state":"California",
 		"type":"FC",
 		"address":"5650 Dolly Ave., Buena Park, CA 90621",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLA3":{
 		"state":"California",
 		"type":"FC",
 		"address":"5829 Smithway St., Commerce, CA 90040",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLA4":{
 		"state":"California",
 		"type":"FC",
 		"address":"9031 Lurline Ave., Chatsworth, CA 91311",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLA5":{
 		"state":"California",
 		"type":"FC",
 		"address":"6250 Sycamore Canyon Blvd., Riverside, CA 92507",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLA7":{
 		"state":"California",
 		"type":"FC",
 		"address":"13271-13299 Central Ave, Chino, CA 91710",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLA8":{
 		"state":"California",
 		"type":"FC",
 		"address":"2815 W. El Segundo Blvd., Hawthorne, CA 90250",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLA9":{
 		"state":"California",
 		"type":"FC",
 		"address":"2900 Alton Pkwy, Irvine, CA 92606",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DPS1":{
 		"state":"California",
 		"type":"FC",
 		"address":"3956-3998 Rosemead Blvd, Rosemead, CA 91770",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSD1":{
 		"state":"California",
 		"type":"FC",
 		"address":"7130 Miramar Rd. 300A, San Diego, CA 92121",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSD2":{
 		"state":"California",
 		"type":"FC",
 		"address":"2777 Loker Ave W., Carlsbad, CA 92010",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSD3":{
 		"state":"California",
 		"type":"FC",
 		"address":"725 E 8th St, NationalCity, CA 91950",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSF1":{
 		"state":"California",
 		"type":"FC",
 		"address":"990 Beecher St., San Leandro, CA 94577",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSF3":{
 		"state":"California",
 		"type":"FC",
 		"address":"1700 Montague Expy., San Jose, CA 95131",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSF4":{
 		"state":"California",
 		"type":"FC",
 		"address":"100-172 Washington Ave, San Leandro, CA 94577",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSF5":{
 		"state":"California",
 		"type":"FC",
 		"address":"250 Utah Avenue, South San Francisco, CA 94080",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSF6":{
 		"state":"California",
 		"type":"FC",
 		"address":"6015 Giant Road, Richmond, CA 94080",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSM1":{
 		"state":"California",
 		"type":"FC",
 		"address":"1640 W Capitol Ave, West Sacramento, CA 95691",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FAT1":{
 		"state":"California",
 		"type":"FC",
 		"address":"3575 S Orange Ave, Fresno, CA 93725-9588",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FCA2":{
 		"state":"California",
 		"type":"FC",
 		"address":"500-534 Beryl St, RedondoBeach, CA 90277",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FCA3":{
 		"state":"California",
 		"type":"FC",
 		"address":"1395-1405 Lincoln Blvd, Santa Monica, CA 90401",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FCA4":{
 		"state":"California",
 		"type":"FC",
 		"address":"2900 Alton Pkwy, Irvine, CA 92606",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FCA5":{
 		"state":"California",
 		"type":"FC",
 		"address":"101 S Main St, LosAngeles, CA 90012",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FCA7":{
 		"state":"California",
 		"type":"FC",
 		"address":"390 W El Camino Real, Sunnyvale, CA 94087",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FCA8":{
 		"state":"California",
 		"type":"FC",
 		"address":"Campanile Way, Berkeley, CA 94709",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FDL3":{
 		"state":"California",
 		"type":"",
 		"address":"24208 SAN MICHELE RD, MORENO VALLEY, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FJC9":{
 		"state":"California",
 		"type":"FC",
 		"address":"500 San Bruno Ave, Brisbane, CA 94005",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HCA3":{
 		"state":"California",
 		"type":"FC",
 		"address":"3334 N SAN FERNANDO RD BLDG E, Los Angeles, CA 90065",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HCA6":{
 		"state":"California",
 		"type":"",
 		"address":"2727 Kurtz St, San Diego, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HCA7":{
 		"state":"California",
 		"type":"",
 		"address":"10681 Production Ave, Fontana, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HCA8":{
 		"state":"California",
 		"type":"",
 		"address":"1350 N. MacArthur Drive, Tracy, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HCA9":{
 		"state":"California",
 		"type":"",
 		"address":"455 VALLEY DR, BRISBANE, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HLA3":{
 		"state":"California",
 		"type":"FC",
 		"address":"24208 San Michele Rd. Moreno Valley, CA, 92551 – Riverside County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IRV1":{
 		"state":"California",
 		"type":"",
 		"address":"4139 Campus Drive, Irvine, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IST1":{
 		"state":"California",
 		"type":"",
 		"address":"1555 N. Chrisman Rd, Tracy, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IUSA":{
 		"state":"California",
 		"type":"",
 		"address":"1001 W Walnut St, Compton, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "KRB1":{
 		"state":"California",
 		"type":"FC",
 		"address":"555 East Orange Show Rd. San Bernardino, CA 92408-2453 – San Bernardino County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "KRIV":{
 		"state":"California",
 		"type":"",
 		"address":"17101 Heacock St, Mareno Valley, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAX2":{
 		"state":"California",
 		"type":"Logistics",
 		"address":"5650 Dolly Ave, Buena Park, CA 90621, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAX5":{
 		"state":"California",
 		"type":"SC",
 		"address":"6400 Valley View St, BUENA PARK",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAX6":{
 		"state":"California",
 		"type":"FC",
 		"address":"5119 District Blvd, Los Angeles, CA 90058",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAX8":{
 		"state":"California",
 		"type":"",
 		"address":"30142 Avenida De Las Banderas, Rancho Santa Margarita, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAX9":{
 		"state":"California",
 		"type":"FC",
 		"address":"11263 Oleander Ave, Building 1, Fontana, California, 923378006 , San Bernardino County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGB1":{
 		"state":"California",
 		"type":"FC",
 		"address":"2417 E. Carson St, Long Beach, California, 90810 , Los Angeles County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGB2":{
 		"state":"California",
 		"type":"",
 		"address":"6049 E 7th St, Long Beach, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGB3":{
 		"state":"California",
 		"type":"FC",
 		"address":"4590 Goodman Way, Building 1, Eastvale, CA 91752-5088",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGB4":{
 		"state":"California",
 		"type":"FC",
 		"address":"27517 Pioneer Ave, Redlands, CA 92374",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGB5":{
 		"state":"California",
 		"type":"FC",
 		"address":"555 East Orange Show Rd. San Bernardino, CA 92408-2453 – San Bernardino County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGB6":{
 		"state":"California",
 		"type":"FC",
 		"address":"20901 Krameria Ave, Riverside, CA 92518-1513",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGB7":{
 		"state":"California",
 		"type":"FC",
 		"address":"1660 N. Locust Ave., Rialto, CA 92376 , San Bernardino",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGB8":{
 		"state":"California",
 		"type":"FC",
 		"address":"1568 N Linden Ave, Rialto, CA 92376",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGB9":{
 		"state":"California",
 		"type":"FC",
 		"address":"4375 N Perris Blvd, Perris, California, 92571 , Riverside County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "OAK3":{
 		"state":"California",
 		"type":"FC",
 		"address":"255 Park Center Drive, Patterson City, CA 95363-8876",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "OAK4":{
 		"state":"California",
 		"type":"FC",
 		"address":"1555 N. Chrisman Road, Tracy, CA 95304-9370",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "OAK5":{
 		"state":"California",
 		"type":"SC",
 		"address":"38811 Cherry Street, Newark, CA 94560",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "OAK6":{
 		"state":"California",
 		"type":"FC",
 		"address":"38811 Cherry Street, Newark, California, 94560-4939",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "OAK7":{
 		"state":"California",
 		"type":"FC",
 		"address":"38811 Cherry St, Newark, CA 94560",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "OAK8":{
 		"state":"California",
 		"type":"FC",
 		"address":"1 Middleton Way, American Canyon, CA 94503",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ONT2":{
 		"state":"California",
 		"type":"FC",
 		"address":"1910 E Central Ave, San Bernardino, CA 92408, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ONT5":{
 		"state":"California",
 		"type":"SC",
 		"address":"2020 E Central Avenue, Southgate Building 4, San Bernardino, CA 92408-2606",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ONT6":{
 		"state":"California",
 		"type":"FC",
 		"address":"24208 San Michele, Moreno Valley, CA 92551",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ONT7":{
 		"state":"California",
 		"type":"FC",
 		"address":"2020 E Central Avenue, Southgate Building 4, San Bernardino, CA 92408-2606",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ONT8":{
 		"state":"California",
 		"type":"FC",
 		"address":"24300 Nandina Ave., Moreno Valley, California, 92551-9534",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ONT9":{
 		"state":"California",
 		"type":"FC",
 		"address":"2125 W San Bernardino Ave, Redlands, CA, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PCA1":{
 		"state":"California",
 		"type":"FC",
 		"address":"1565 N MacArthur Drive, Tracy, California 95376 , San Joaquin County (Seasonal facility)",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PCA2":{
 		"state":"California",
 		"type":"FC",
 		"address":"1650 East Central Avenue, San Bernardino, California, 92408 , San Bernardino County (Seasonal facility)",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PCA3":{
 		"state":"California",
 		"type":"",
 		"address":"1660 N. Linden Ave., Rialto, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PSP1":{
 		"state":"California",
 		"type":"DC",
 		"address":"1010 West Fourth Street, Beaumont, California, 92223 , Riverside County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RCA1":{
 		"state":"California",
 		"type":"FC",
 		"address":"8411 Market St, San Francisco, CA 94103",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RCA2":{
 		"state":"California",
 		"type":"FC",
 		"address":"500-534 Beryl St, RedondoBeach, CA 90277",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RCA3":{
 		"state":"California",
 		"type":"FC",
 		"address":"1395-1405 Lincoln Blvd, Santa Monica, CA 90401",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RCA4":{
 		"state":"California",
 		"type":"FC",
 		"address":"2900 Alton Pkwy, Irvine, CA 92606",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RCA5":{
 		"state":"California",
 		"type":"FC",
 		"address":"101 S Main St, LosAngeles, CA 90012",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RCA6":{
 		"state":"California",
 		"type":"FC",
 		"address":"402w Broadway, San Diego, CA 92101",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RCA7":{
 		"state":"California",
 		"type":"FC",
 		"address":"195-199 E Santa Clara St, San Jose, CA 95113",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RCA8":{
 		"state":"California",
 		"type":"FC",
 		"address":"Campanile Way, Berkeley, CA 94709",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RELO":{
 		"state":"California",
 		"type":"",
 		"address":"201 Spear St, San Francisco, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RLA4":{
 		"state":"California",
 		"type":"FC",
 		"address":"111 S Anaheim Blvd, Anaheim, CA 92805",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RSJ1":{
 		"state":"California",
 		"type":"FC",
 		"address":"2710 N 1st St, SanJose, CA 95134",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SAX1":{
 		"state":"California",
 		"type":"",
 		"address":"4041 PECK RD, EL MONTE, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SAX2":{
 		"state":"California",
 		"type":"",
 		"address":"2246 S GRAND AVE, SANTA ANA, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SBD2":{
 		"state":"California",
 		"type":"",
 		"address":"1601 E 3rd St, San Bernardino, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SCA2":{
 		"state":"California",
 		"type":"",
 		"address":"12453 SAN PABLO AVE, RICHMOND, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SCA3":{
 		"state":"California",
 		"type":"",
 		"address":"10 N MAIN ST, MILPITAS, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SCA4":{
 		"state":"California",
 		"type":"",
 		"address":"16915 VIA DEL CAMPO, SAN DIEGO, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SCA5":{
 		"state":"California",
 		"type":"",
 		"address":"1120 EXPOSITION BLVD, SACRAMENTO, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SCA6":{
 		"state":"California",
 		"type":"",
 		"address":"3096 MCCLINTOCK AVE, LOS ANGELES, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SCK1":{
 		"state":"California",
 		"type":"FC",
 		"address":"4611 Newcastle Road, Stockton, California, 95215 , San Joaquin County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SCK3":{
 		"state":"California",
 		"type":"",
 		"address":"3565 N Airport Way, Manteca, California 953368696 , San Joaquin CountyAC",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SFO3":{
 		"state":"California",
 		"type":"",
 		"address":"5250 NEWCASTLE RD, STOCKTON, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SJC7":{
 		"state":"California",
 		"type":"FC",
 		"address":"188 Mountain House Pkwy, Tracy, CA 95391",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SJC8":{
 		"state":"California",
 		"type":"DC",
 		"address":"46724 Lakeview Blvd, Fremont, California, US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SJC9":{
 		"state":"California",
 		"type":"",
 		"address":"1455 valley drive, Brisbane, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SLA5":{
 		"state":"California",
 		"type":"",
 		"address":"5250 Goodman Way, Eastvale, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SMF1":{
 		"state":"California",
 		"type":"FC",
 		"address":"4900 W Elkhorn Blvd, Metro Air Park, Sacramento, CA 95835-9505",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SMF2":{
 		"state":"California",
 		"type":"",
 		"address":"2935 Ramco St., West Sacramento, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SMF3":{
 		"state":"California",
 		"type":"FC",
 		"address":"4723 S B Street, Stockton, California, 952159446 , San Joaquin County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SMF5":{
 		"state":"California",
 		"type":"FC",
 		"address":"300 Crocker Dr, Vacaville, CA 95688, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SMF9":{
 		"state":"California",
 		"type":"",
 		"address":"300 Crocker Dr, Vacaville, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SNA4":{
 		"state":"California",
 		"type":"FC",
 		"address":"2496 W Walnut St. Rialto CA 92376-3009",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SNA6":{
 		"state":"California",
 		"type":"FC",
 		"address":"5250 Goodman Road, Eastvale, CA 92880",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SNA7":{
 		"state":"California",
 		"type":"FC",
 		"address":"555 East Orange Show Rd. San Bernardino, CA 92408-2453",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SNA8":{
 		"state":"California",
 		"type":"FC",
 		"address":"555 East Orange Show Rd. San Bernardino, CA 92408-2453",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SNA9":{
 		"state":"California",
 		"type":"FC",
 		"address":"5250 Goodman Road, Eastvale, CA 92880",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAC":{
 		"state":"California",
 		"type":"SUAC",
 		"address":"100 S Wineville Ave, Ontario, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAK":{
 		"state":"California",
 		"type":"",
 		"address":"1170 Centre Drive, SUITE A, Walnut, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAM":{
 		"state":"California",
 		"type":"",
 		"address":"5400 Ontario Mills Parkway, Unit 400, Ontario, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAR":{
 		"state":"California",
 		"type":"",
 		"address":"9207 Eton Avenue Unit B, Chatsworth, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBA":{
 		"state":"California",
 		"type":"",
 		"address":"2215 Paseo De Las Americas, 30D, San Diego, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBV":{
 		"state":"California",
 		"type":"",
 		"address":"810 E 8th St, Oakland, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBV":{
 		"state":"California",
 		"type":"",
 		"address":"810 E 8th St, Oakland, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUFA":{
 		"state":"California",
 		"type":"",
 		"address":"8246 W. Mineral King Ave., Visalia, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUFC":{
 		"state":"California",
 		"type":"",
 		"address":"587 Apollo St, Brea, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUFD":{
 		"state":"California",
 		"type":"",
 		"address":"587 Apollo St, Brea, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHW":{
 		"state":"California",
 		"type":"",
 		"address":"2325 Raymer Ave, Fullerton, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUJB":{
 		"state":"California",
 		"type":"",
 		"address":"706 North Diamond Bar Blvd, Unit A, Diamond Bar, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUJF":{
 		"state":"California",
 		"type":"",
 		"address":"100 S Wineville Ave, Ontario, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUNC":{
 		"state":"California",
 		"type":"",
 		"address":"1113 E 230th Street, Carson, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOK":{
 		"state":"California",
 		"type":"",
 		"address":"437 Baldwin Park Blvd, City of Industry, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOO":{
 		"state":"California",
 		"type":"",
 		"address":"16792 Burke Lane, Huntington Beach, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOQ":{
 		"state":"California",
 		"type":"",
 		"address":"3700 Cover St, Long Beach, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPE":{
 		"state":"California",
 		"type":"",
 		"address":"7886 Deering Ave., Canoga Park, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPI":{
 		"state":"California",
 		"type":"",
 		"address":"2325 Raymer Avenue, Fullerton, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPK":{
 		"state":"California",
 		"type":"",
 		"address":"9851 Owensmouth Ave, Chatsworth, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPL":{
 		"state":"California",
 		"type":"",
 		"address":"587 Apollo St, Brea, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUSH":{
 		"state":"California",
 		"type":"",
 		"address":"16792 Burke Lane, Huntington Beach, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD":{
 		"state":"California",
 		"type":"FC",
 		"address":"4532 Newcastle Rd, Stockton, CA 95215, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TCA0":{
 		"state":"California",
 		"type":"",
 		"address":"455 Valley Drive, Brisbane, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TCA1":{
 		"state":"California",
 		"type":"",
 		"address":"888 Tennessee St, San Francisco, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TCA2":{
 		"state":"California",
 		"type":"",
 		"address":"2400 Marine Avenue, Redondo Beach, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TCA4":{
 		"state":"California",
 		"type":"",
 		"address":"2006 McGaw Avenue, Irvine, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TCA5":{
 		"state":"California",
 		"type":"",
 		"address":"3334 N San Fernando Rd Bldg E, Los Angeles, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TCA6":{
 		"state":"California",
 		"type":"",
 		"address":"2727 Kurtz St, San Diego, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TCA7":{
 		"state":"California",
 		"type":"",
 		"address":"222 Commercial St, Sunnyvale, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TCA9":{
 		"state":"California",
 		"type":"",
 		"address":"2934 Ramona Ave, Sacramento, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UCA1":{
 		"state":"California",
 		"type":"FC",
 		"address":"888 Tennessee Street, San Francisco, CA 94112",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UCA2":{
 		"state":"California",
 		"type":"FC",
 		"address":"Redondo Beach, CA 90277",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UCA3":{
 		"state":"California",
 		"type":"FC",
 		"address":"11800 W Olympic Blvd., Los Angeles, CA 90064",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UCA4":{
 		"state":"California",
 		"type":"FC",
 		"address":"2006 McGaw Ave., Irvine, CA 92614",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UCA5":{
 		"state":"California",
 		"type":"FC",
 		"address":"Silver Lake, Silver Lake, CA 90001",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UCA6":{
 		"state":"California",
 		"type":"FC",
 		"address":"2727 Kurtz St., San Diego, CA 92110",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UCA7":{
 		"state":"California",
 		"type":"FC",
 		"address":"222 Commercial Street, Sunnyvale, CA 94085",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UCA8":{
 		"state":"California",
 		"type":"FC",
 		"address":"3100 San Pablo Ave. Ste 120, West Berkley, CA 94702",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UCA9":{
 		"state":"California",
 		"type":"FC",
 		"address":"2934 Ramona Avenue, Sacramento, CA 95826",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ULA1":{
 		"state":"California",
 		"type":"",
 		"address":"635 8th St, SAN FERNANDO, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ULA2":{
 		"state":"California",
 		"type":"",
 		"address":"4278 N. Harbor Blvd., FULLERTON, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "USC1":{
 		"state":"California",
 		"type":"",
 		"address":"3640 Ramos Dr, WEST SACRAMENTO, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "USC2":{
 		"state":"California",
 		"type":"",
 		"address":"2400 McClellan Park Dr, SACRAMENTO, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "USF1":{
 		"state":"California",
 		"type":"",
 		"address":"750 Laurelwood Road, SANTA CLARA, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "USF2":{
 		"state":"California",
 		"type":"",
 		"address":"1700 Fairway Dr, SAN LEANDRO, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "USF3":{
 		"state":"California",
 		"type":"",
 		"address":"1911 Lundy Ave, SAN JOSE, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUBD":{
 		"state":"California",
 		"type":"FC",
 		"address":"17182 Nevada Avenue, Victorville, CA 92345",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUBG":{
 		"state":"California",
 		"type":"",
 		"address":"8365 Sultana Ave, Unit 2, Fontana, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUBH":{
 		"state":"California",
 		"type":"",
 		"address":"9950 Calabash Ave, Fontana, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUBJ":{
 		"state":"California",
 		"type":"",
 		"address":"1456 Harry Shepard Blvd, San Bernardino, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUGE":{
 		"state":"California",
 		"type":"FC",
 		"address":"3450 DULLES DR, Mira Loma, CA 91752",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUGK":{
 		"state":"California",
 		"type":"",
 		"address":"4120 Indian Ave, Perris, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUGR":{
 		"state":"California",
 		"type":"",
 		"address":"1565 N Mac Arthur Dr., TRACY, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUKF":{
 		"state":"California",
 		"type":"FC",
 		"address":"18120 Bishop Ave, Carson, CA 90746",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUKJ":{
 		"state":"California",
 		"type":"",
 		"address":"19270 S. Western Avenue, Torrance, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUMD":{
 		"state":"California",
 		"type":"",
 		"address":"548 W Merrill Ave, Rialto, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUMX":{
 		"state":"California",
 		"type":"FC",
 		"address":"241 E Pacific Coast Hwy, Wilmington, CA 90744",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPG":{
 		"state":"California",
 		"type":"",
 		"address":"16110 Cosmos Street, Moreno Valley, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPQ":{
 		"state":"California",
 		"type":"FC",
 		"address":"9211 Kaiser Way, Fontana, CA 92335",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPX":{
 		"state":"California",
 		"type":"",
 		"address":"2300 W San Bernardino Ave, Redlands, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUTD":{
 		"state":"California",
 		"type":"FC",
 		"address":"8291 Milliken Avenue, Rancho Cucomonga, CA 91730",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUTH":{
 		"state":"California",
 		"type":"",
 		"address":"25451 Mountain House Pkwy, TRACY, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUVB":{
 		"state":"California",
 		"type":"",
 		"address":"2053 East Jay St, Ontario, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUWA":{
 		"state":"California",
 		"type":"",
 		"address":"13243 Nutro Way, Victorville, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUWC":{
 		"state":"California",
 		"type":"",
 		"address":"4700 E Nestle Purina Ave, Flagstaff, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUWE":{
 		"state":"California",
 		"type":"",
 		"address":"736 Garner Rd, Modesto, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUWH":{
 		"state":"California",
 		"type":"",
 		"address":"5725 Jurupa St, Ontario, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XBC1":{
 		"state":"California",
 		"type":"",
 		"address":"15750 Mountain Avenue, Chino, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XBSP":{
 		"state":"California",
 		"type":"",
 		"address":"15750 Mountain Ave, CHINO, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XFI1":{
 		"state":"California",
 		"type":"",
 		"address":"6351 Cameron Boulevard, Gilroy, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XIX2":{
 		"state":"California",
 		"type":"",
 		"address":"2020 E Central Ave, San Bernardino, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XIX6":{
 		"state":"California",
 		"type":"",
 		"address":"10681 Production Ave, Fontana, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XIX7":{
 		"state":"California",
 		"type":"",
 		"address":"555 E ORANGE SHOW RD, SAN BERNARDINO, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XLAA":{
 		"state":"California",
 		"type":"",
 		"address":"5691 E Philadelphia, Suite 100, Ontario, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XLAG":{
 		"state":"California",
 		"type":"",
 		"address":"2115 S Sinclair Ave Stockton, CA 95215",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSD":{
 		"state":"California",
 		"type":"FC",
 		"address":"1909 Zephyr Street, Stockton, CA 95206",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSJ":{
 		"state":"California",
 		"type":"FC",
 		"address":"1590 Tamarind Ave, Rialto, CA 92376",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSO":{
 		"state":"California",
 		"type":"",
 		"address":"657 Nance Street, Perris, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSV":{
 		"state":"California",
 		"type":"FC",
 		"address":"2125 San Bernardino Ave, CA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DDV5":{
 		"state":"Colorado",
 		"type":"DC",
 		"address":"Aurora, Colorado, 80011 , Denver County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DEN1":{
 		"state":"Colorado",
 		"type":"FC",
 		"address":"221-189 E 144th Ave, Thornton, CO 80023, USA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DEN2":{
 		"state":"Colorado",
 		"type":"FC",
 		"address":"24006 East 19th Avenue, Aurora, CO 80019-3705",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DEN3":{
 		"state":"Colorado",
 		"type":"FC",
 		"address":"Grant Street Thornton CO 80023-6622",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DEN5":{
 		"state":"Colorado",
 		"type":"SC",
 		"address":"19799 E 36th Dr, Aurora, CO 80011",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DEN6":{
 		"state":"Colorado",
 		"type":"FC",
 		"address":"480 E 55th Ave, Denver, CO 80216",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DEN7":{
 		"state":"Colorado",
 		"type":"",
 		"address":"2230 E 26th Ave, Aurora, CO",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FCO4":{
 		"state":"Colorado",
 		"type":"FC",
 		"address":"1437 Bannock St, Denver, CO 80202",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SCO1":{
 		"state":"Colorado",
 		"type":"",
 		"address":"13931 E MARINA DR APT 301, AURORA, CO",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUEA":{
 		"state":"Colorado",
 		"type":"",
 		"address":"1821 Lefthand Circle, Unit D, Longmont, CO",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHQ":{
 		"state":"Colorado",
 		"type":"",
 		"address":"4635 NAUTILUS CT S, STE D, Boulder, CO",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TCO1":{
 		"state":"Colorado",
 		"type":"",
 		"address":"480 E 55th Avenue, Suite 100, Denver, CO",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UCO1":{
 		"state":"Colorado",
 		"type":"FC",
 		"address":"480 E 55th Ave Suite 100, Denver, CO 80216",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UCO2":{
 		"state":"Colorado",
 		"type":"",
 		"address":"3434 47th Street, Suite 220, Boulder, CO",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XLAK":{
 		"state":"Colorado",
 		"type":"",
 		"address":"18875 E BROMLEY LN BRIGHTON, CO 80601",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BDL1":{
 		"state":"Connecticut",
 		"type":"FC",
 		"address":"801 Day Hill Road Windsor, CT 06095",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BDL2":{
 		"state":"Connecticut",
 		"type":"FC",
 		"address":"409 Washington Ave, North Haven, CT 06473",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BDL3":{
 		"state":"Connecticut",
 		"type":"FC",
 		"address":"415 Washington Ave, Building 3, North Haven, CT 06473 , New Haven County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BDL5":{
 		"state":"Connecticut",
 		"type":"SC",
 		"address":"29 Research Parkway, Wallingford, CT 06492",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BLD5":{
 		"state":"Connecticut",
 		"type":"SC",
 		"address":"BDL5 29 RESEARCH PARKWAY WALLINGFORD, CT 06492-1927 ATTN BDL5-IT DEPARTMENT",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CON1":{
 		"state":"Connecticut",
 		"type":"",
 		"address":"40 Wilbur Cross Way, Suite 104, Mansfield, CT",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DBO3":{
 		"state":"Connecticut",
 		"type":"FC",
 		"address":"601 Boston Post Rd, Milford, CT 6460",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCN1":{
 		"state":"Connecticut",
 		"type":"FC",
 		"address":"1675 Post Rd, Fairfield, CT 6824",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUJD":{
 		"state":"Connecticut",
 		"type":"",
 		"address":"47 Industrial Park Rd, Centerbrook, CT",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FWA3":{
 		"state":"DC",
 		"type":"FC",
 		"address":"Healy Cir, Washington, DC 20007",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "GSE2":{
 		"state":"DC",
 		"type":"FC",
 		"address":"Healy Cir, Washington, DC 20007",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RDC1":{
 		"state":"DC",
 		"type":"FC",
 		"address":"1 Scott Cir NW, Washington, DC 20036",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RVA1":{
 		"state":"DC",
 		"type":"FC",
 		"address":"7213 Blair Rd NW, Washington, DC 20012",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHL1":{
 		"state":"Delaware",
 		"type":"FC",
 		"address":"1 Centerpoint Boulevard, New Castle, DE 19720",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHL3":{
 		"state":"Delaware",
 		"type":"FC",
 		"address":"1600 Johnson Way, New Castle, DE 19720",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHL7":{
 		"state":"Delaware",
 		"type":"FC",
 		"address":"560 Merrimac Avenue, Middletown, DE 19709-4652",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHL8":{
 		"state":"Delaware",
 		"type":"FC",
 		"address":"727 N. Broad Street, Middletown, DE 19709-1166",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHC":{
 		"state":"Delaware",
 		"type":"",
 		"address":"18 Dixon St, Selbyville, DE",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHS":{
 		"state":"Delaware",
 		"type":"",
 		"address":"18 Dixon St, Selbyville, DE",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPP":{
 		"state":"Delaware",
 		"type":"",
 		"address":"230 Centerpoint BLVD, New Castle, DE",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPQ":{
 		"state":"Delaware",
 		"type":"",
 		"address":"230 Centerpoint BLVD, New Castle, DE",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CFL1":{
 		"state":"Florida",
 		"type":"",
 		"address":"4225 East Plaza Drive, Orlando, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DJA1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"11084 Cabot Commerce Circle, Jacksonville, FL 32226",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DJX1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"21 E Union St, Jacksonville, FL 32202",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DM01":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"Tangelo Park, Orlando, FL 32189",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DM11":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"15600 NW 15th Ave., Miami Gardens, FL 33169",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DMI2":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"3200 Northwest 67th Avenue, Miami, FL 33122",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DMI3":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"3966 NW 65th Ave, Virginia Gardens, FL 33166",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DMO1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"4917 Anzio St, Orlando, FL 32819",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSR1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"2000 Main St, Sarasota, FL 34237",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DTP1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"108 W Brandon Blvd, Brandon, FL 33511",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DTP2":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"1868-1950 Beach Dr SE, St. Petersburg, FL 33705",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FFL1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"820 NW 41st St, Doral, FL 33178",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FFL2":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"1201-1211 Brickell Ave, Miami, FL 33131",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FMI3":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"3966 NW 65th Ave, Virginia Gardens, FL 33166",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "JAX1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"12900 Pecan Park Road, Jacksonville, FL 32218",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "JAX2":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"12900 Pecan Park Rd., Jacksonville, FL 32218-2432",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "JAX5":{
 		"state":"Florida",
 		"type":"SC",
 		"address":"4948 Bulls Bay Hwy, Jacksonville, FL 32219-3235",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "JAX6":{
 		"state":"Florida",
 		"type":"",
 		"address":"2619 IGNITION DR, JACKSONVILLE, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAL1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"1760 County Line Road, Lakeland, FL 33811",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MC05":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"305 Deen Still Road, Davenport, FL 33897",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MCO1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"12340 Boggy Creek Rd, Orlando, FL 32824, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MCO2":{
 		"state":"Florida",
 		"type":"",
 		"address":"2170 State Road 472, ORANGE CITY, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MCO5":{
 		"state":"Florida",
 		"type":"SC",
 		"address":"305 Deen Still Rd Davenport, FL 33897-9409",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MCO6":{
 		"state":"Florida",
 		"type":"",
 		"address":"7469 Kingspointe Parkway, Orlando, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MIA1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"14000 NW 37th Ave, Opa Locka, FL 33054-6324",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MIA5":{
 		"state":"Florida",
 		"type":"SC",
 		"address":"1900 NW 132nd Place, Doral, FL, 33182",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MIA6":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"3200 NW 67th Avenue, Miami, FL 33122",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MIA7":{
 		"state":"Florida",
 		"type":"",
 		"address":"1900 NW 132nd Place, Miami, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PFL1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"1001 13th Avenue East, Bradenton, FL 34208",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PFL2":{
 		"state":"Florida",
 		"type":"",
 		"address":"8060 State Rd 33 North, Lakeland, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RFL1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"1201-1211 Brickell Ave, Miami, FL 33131",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RFL3":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"500 E Zack St, Tampa, FL 33602",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RFL4":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"2-50 W South St, Orlando, FL 32801",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RMI1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"8855 SW 50th Terrace, Miami, FL 33165",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SFL1":{
 		"state":"Florida",
 		"type":"Logistics Center",
 		"address":"7469 Kingspointe Parkway, Orlando, FL 32819 – Orange County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SFL2":{
 		"state":"Florida",
 		"type":"",
 		"address":"18421 NW 67TH AVE, HIALEAH, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SFL3":{
 		"state":"Florida",
 		"type":"",
 		"address":"2581 WHITFIELD AVE, SARASOTA, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAQ":{
 		"state":"Florida",
 		"type":"",
 		"address":"8870 Boggy Creek Rd, Orlando, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAV":{
 		"state":"Florida",
 		"type":"",
 		"address":"8870 Boggy Creek Rd, Orlando, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAW":{
 		"state":"Florida",
 		"type":"",
 		"address":"8870 Boggy Creek Rd, Orlando, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBI":{
 		"state":"Florida",
 		"type":"",
 		"address":"2213 VISTA PKWY, suite 8, West Palm Beach, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBT":{
 		"state":"Florida",
 		"type":"",
 		"address":"7070 NW 75th St, Parkland, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBU":{
 		"state":"Florida",
 		"type":"",
 		"address":"2213 VISTA PKWY, Suite 8, West Palm Beach, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUJA":{
 		"state":"Florida",
 		"type":"",
 		"address":"325 NW 28TH ST, Miami, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUJC":{
 		"state":"Florida",
 		"type":"",
 		"address":"325 NW 28TH ST, Miami, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOD":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"121 Kelsey Ln, Tampa, FL 33619",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPD":{
 		"state":"Florida",
 		"type":"",
 		"address":"8320 Baycenter Rd, Jacksonville, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TFL2":{
 		"state":"Florida",
 		"type":"",
 		"address":"101 NE 23rd Street, Miami, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TFL3":{
 		"state":"Florida",
 		"type":"",
 		"address":"4430 E ADAMO DR, STE 305, Tampa, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TFL4":{
 		"state":"Florida",
 		"type":"",
 		"address":"7469 Kingspointe Parkway, ORLANDO, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TPA1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"351 30th Street NE, Ruskin, FL 33570",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TPA2":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"1760 County Line Road, Lakeland, FL 33811",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TPA6":{
 		"state":"Florida",
 		"type":"",
 		"address":"3400 NW 35TH AVE RD, Ocala, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UFL1":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"15600 NW 15th Ave, Miami Gardens, FL 33169",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UFL2":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"101 NE 23rd Street, Miami, FL 33137",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UFL3":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"4430 East Adamo Suite 305, Tampa, FL 33605",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UFL4":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"7469 Kingspointe Parkway, Orlando, FL 32819 – Orange County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UFL5":{
 		"state":"Florida",
 		"type":"",
 		"address":"4769 Oak Fair Blvd, TAMPA, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UFL6":{
 		"state":"Florida",
 		"type":"",
 		"address":"3200 NW 67th Avenue, MIAMI, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UFL7":{
 		"state":"Florida",
 		"type":"",
 		"address":"6843 S Conway Rd, ORLANDO, FL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSF":{
 		"state":"Florida",
 		"type":"FC",
 		"address":"901 West Landstreet Road Suite C, Orlando, FL 32824",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ALT9":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"(920 Highway 124), Braselton, GA 30517",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ATL2":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"2255 W Park Blvd, Stone Mountain, Georgia, 30087 , DeKalb County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ATL6":{
 		"state":"Georgia",
 		"type":"SC",
 		"address":"4200 North Commerce, Atlanta, GA 30344-5707",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ATL7":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"6855 Shannon Pkwy, Union City, GA 30291-2091",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ATL8":{
 		"state":"Georgia",
 		"type":"SC",
 		"address":"2201 Thornton Rd., Lithia Springs, GA 30122",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CGA2":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"77 Collier Rd NW, Atlanta, GA 30309",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DAT1":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"2-20 E South St, Smyrna, DE 19977",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DAT2":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"1544-1542 E Cleveland Ave, EastPoint, GA 30344",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DAT3":{
 		"state":"Georgia",
 		"type":"DC",
 		"address":"2750 Sullivan Rd, Atlanta, GA 30337, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FGA2":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"2185-2199 La Dawn Ln NW, Atlanta, GA 30318",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "GAT1":{
 		"state":"Georgia",
 		"type":"",
 		"address":"86 5th St NW, Atlanta, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HGA3":{
 		"state":"Georgia",
 		"type":"",
 		"address":"2160 Breckenridge Blvd, Site 10, Lawrenceville, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MGE1":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"650 Broadway Ave, Braselton, GA 30517-3002",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MGE3":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"808 Hog Mountain Rd., Building F, Jefferson, GA, 30549",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MGE5":{
 		"state":"Georgia",
 		"type":"SC",
 		"address":"235 Hog Mountain Rd, Jefferson, GA 30549, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MGE7":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"650 Broadway Ave, Braselton, GA 30517-3002 – Jackson County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PGA1":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"6200 Fulton Industrial Blvd, Atlanta, Georgia, 30336 , Fulton County (Seasonal facility)",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RAT2":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"206 Washington St SW, Atlanta, GA 30334",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RGA2":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"206 Washington St SW, Atlanta, GA 30334",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SAV1":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"Georgia Ports Authority Garden City Terminal, Building CFS #2, Garden City, GA 31408",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SAV3":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"7001 Skipper Rd., Macon, GA 312166427 , Bibb County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SGA1":{
 		"state":"Georgia",
 		"type":"",
 		"address":"2929 PEACHTREE RD NE, ATLANTA, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAG":{
 		"state":"Georgia",
 		"type":"",
 		"address":"150 Leo Taylor Ln, Ball Ground, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAX":{
 		"state":"Georgia",
 		"type":"",
 		"address":"394 COMMERCE BLVD, Athens, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUGE":{
 		"state":"Georgia",
 		"type":"",
 		"address":"5975 Shiloh Road, Suite 104, Alpharetta, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SULE":{
 		"state":"Georgia",
 		"type":"",
 		"address":"100 Solutions Parkway, Thomaston, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUNB":{
 		"state":"Georgia",
 		"type":"",
 		"address":"320 Telfair Rd, Savannah, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOL":{
 		"state":"Georgia",
 		"type":"",
 		"address":"305 Bucknell Court, Atlanta, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"4995 Skipper Road, Macon, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TJA2":{
 		"state":"Georgia",
 		"type":"",
 		"address":"2302 MARIETTA BLVD NW, Atlanta, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UGA1":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"Atlanta, GA 30318",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UGA2":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"Atlanta, GA 30318",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UGA3":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"2160 Breckinridge Blvd Bldg 100 Suite 100, Lawrenceville, GA 30043",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UGA4":{
 		"state":"Georgia",
 		"type":"",
 		"address":"2232 Northmont Parkway, DULUTH, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUAT":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"6855 Shannon Pkwy, Union City, GA 30291",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUGH":{
 		"state":"Georgia",
 		"type":"",
 		"address":"7875 White Road, Austell, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUGO":{
 		"state":"Georgia",
 		"type":"",
 		"address":"300 Interstate West Parkway, Austell, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUKG":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"3201 Centre Parkway, East Point, GA 30344",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUOJ":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"250 Declaration Avenue, Suite 500, McDonough, GA 30253",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPN":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"340 Westridge Parkway, McDonough, GA 30253",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPY":{
 		"state":"Georgia",
 		"type":"",
 		"address":"2501 Rockhouse Road, Lithia Springs, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUQI":{
 		"state":"Georgia",
 		"type":"",
 		"address":"512 Liberty Expressway, Albany, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUTE":{
 		"state":"Georgia",
 		"type":"",
 		"address":"1020 SH Morgan Pkwy, Pooler, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XEW1":{
 		"state":"Georgia",
 		"type":"",
 		"address":"6855 SHANNON PKWY, UNION CITY, GA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XLAH":{
 		"state":"Georgia",
 		"type":"",
 		"address":"580 Raco Pkwy Pendergrass, GA 30567",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPK":{
 		"state":"Georgia",
 		"type":"FC",
 		"address":"6720 Oakley Industrial Blvd, Union City, GA 30291",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ATL5":{
 		"state":"Georgia",
 		"type":"",
 		"address":"4190 Jiles Rd, Kennesaw GA 30144",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CHI1":{
 		"state":"Illinois",
 		"type":"",
 		"address":"750 S Halsted St, Student Center East, #214, Chicago, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CHI3":{
 		"state":"Illinois",
 		"type":"",
 		"address":"2720 N Clark St, Chicago, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CMI1":{
 		"state":"Illinois",
 		"type":"",
 		"address":"809S Wright Street, Champaign, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCH1":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"2801 S. Western Ave., Chicago, IL 60608",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCH2":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"8220 Austin Ave., Morton Grove, IL 60053",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCH3":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"4500 Western Ave., Lisle, IL 60532",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCH4":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"3 S Lake St, Mundelein, IL 60060",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DHO1":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"501-505 Ridgemoor Dr, Willowbrook, IL 60527",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FIL1":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"1162 N Hickory Ave, ArlingtonHeights, IL 60004",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FIL2":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"110 E Irving Park Rd, Wood Dale, IL 60191",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HIL1":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"1111 Cherry Street, Chicago, IL 60642",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HIL2":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"1111 N Cherry Ave, Chicago, IL 60642",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HLU1":{
 		"state":"Illinois",
 		"type":"",
 		"address":"3931 Lakeview Corporate Drive, Edwardsville, IL 62025 – Madison County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HMW1":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"30260 Graaskamp Blvd, Wilmington, Illinois 60481 , Will County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ICH5":{
 		"state":"Illinois",
 		"type":"",
 		"address":"111 E Wacker Dr, Chicago, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ICT1":{
 		"state":"Illinois",
 		"type":"",
 		"address":"1250 N Mittel Blvd, Wood Dale, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "KIL1":{
 		"state":"Illinois",
 		"type":"",
 		"address":"3900 S Brandon Rd, Elwood, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDW1":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"Greater Chicago Area, Joliet, IL 60433",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDW2":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"250 Emerald Drive Joliet,IL 60433-3280 United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDW4":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"201 Emerald Drive, Joliet, IL 60433",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDW5":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"1125 W Remington Blvd, Romeoville, IL 60556",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDW6":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"1125 Remington Blvd, Romeoville, IL 60446",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDW7":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"6521 W Monee Manhattan Road, Monee, IL 60449",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDW8":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"1750 Bridge Dr., Waukegan, IL 60085-3004",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDW9":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"2865 Duke Parkway, Aurora, IL 60502-9551",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDWX":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"2801 S. Western Ave, Chicago, IL 60608",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDWY":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"Route 59, Aurora, IL 60563",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDWZ":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"Route 59, Aurora, IL 60563",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ORD3":{
 		"state":"Illinois",
 		"type":"",
 		"address":"24101 S Frontage Rd W, CHANNAHON, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ORD6":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"1250 N Mittel Blvd, Wood Dale, Illinois, US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PIL1":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"801 Midpoint Road, Minooka, Illinois 60047 , Lake County (Seasonal facility)",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RCH1":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"701-1899 Fellows Pl, NorthChicago, IL 60064",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RIL1":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"310 S Federal St, Chicago, IL 60604",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SIL1":{
 		"state":"Illinois",
 		"type":"",
 		"address":"2379 Davey Rd, WOODRIDGE, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SIL2":{
 		"state":"Illinois",
 		"type":"",
 		"address":"900 W BLISS ST, CHICAGO, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SKPN":{
 		"state":"Illinois",
 		"type":"",
 		"address":"Mundelein, IL, 60060. SKTB, Montgomeryville",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SLT7":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"3931 Lakeview Corporate Dr., Edwarsville, IL 62025",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "STL4":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"3050 Gateway Commerce Center Drive South, Edwardsville, IL 62025",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "STL6":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"3931 Lakeview Corporate Drive, Edwardsville, IL 62025",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "STL7":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"3931 Lakeview Corporate Drive, Edwardsville, IL 62025",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAP":{
 		"state":"Illinois",
 		"type":"",
 		"address":"23824 W. Andrew Rd., Plainfield, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUEI":{
 		"state":"Illinois",
 		"type":"",
 		"address":"8 GALAXY WAY, Woodstock, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUEJ":{
 		"state":"Illinois",
 		"type":"",
 		"address":"9462 Franklin Avenue, Franklin Park, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUGD":{
 		"state":"Illinois",
 		"type":"",
 		"address":"6033 N Sheridan Rd, Chicago, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUON":{
 		"state":"Illinois",
 		"type":"",
 		"address":"1703 S Veterans Pkwy, Bloomington, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPG":{
 		"state":"Illinois",
 		"type":"",
 		"address":"3725 Swenson Rd, St Charles, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUSF":{
 		"state":"Illinois",
 		"type":"",
 		"address":"840 Wheeling Rd, Wheeling, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD2":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"1111 N Cherry Ave, Goose Island, IL 60642",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD3":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"401 E Laraway Road, Joliet, IL 40433",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD7":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"2801 S. Western Ave, Chicago, IL 60608",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TIL1":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"1111 N Cherry Street, Chicago, IL 60642",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UIL1":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"1162 N Hickory Ave, ArlingtonHeights, IL 60004",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UIL2":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"1250 N Mittel Blvd, Wood Dale, IL 60191",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUOK":{
 		"state":"Illinois",
 		"type":"FC",
 		"address":"21837 W. Mississippi Ave, Elwood, IL 60421",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPS":{
 		"state":"Illinois",
 		"type":"",
 		"address":"3049 Westway Drive, Edwardsville, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUTG":{
 		"state":"Illinois",
 		"type":"",
 		"address":"100 E MILLSDALE RD, Elwood, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUWI":{
 		"state":"Illinois",
 		"type":"",
 		"address":"4015 Lakeview Corporate Drive, EDWARDSVILLE, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XLAB":{
 		"state":"Illinois",
 		"type":"",
 		"address":"1701 Normantown Rd, Romeoville, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSN":{
 		"state":"Illinois",
 		"type":"",
 		"address":"4200 Ferry Rd, Aurora, IL",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DIN1":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"1861 Monument Cir, Indianapolis, IN 46204",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DIN6":{
 		"state":"Indiana",
 		"type":"",
 		"address":"8610 Avionics Dr, Fort Wayne, IN 46809, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IND1":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"4255 Anson Boulevard, Whitestown, IN 46075",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IND2":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"715 Airtech Parkway, Plainfield, IN 46168",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IND3":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"717 Airtech Parkway, Plainfield, IN 46168",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IND4":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"710 South Girls School Road, Indianapolis, IN 46214",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IND5":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"800 S Perry Road, Plainfield, IN 46168",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IND6":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"1453 10th Street, Jeffersonville, IN 47130",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IND7":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"9101 Orly Dr, Indianapolis, IN 46241",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IND8":{
 		"state":"Indiana",
 		"type":"Return Center",
 		"address":"710 South Girls School Rd. Indianapolis, IN 46214 – Marion County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IND9":{
 		"state":"Indiana",
 		"type":"Logistics service",
 		"address":"1151 S GRAHAM RD, Greenwood, Indiana, US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MQJ2":{
 		"state":"Indiana",
 		"type":"",
 		"address":"19 Bob Glidden Blvd, Whiteland, IN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PIN1":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"6161 Decatur Blvd, Indianapolis, Indiana 46241 , Marion County (Seasonal Facility)",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PISA":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"900 Patrol Rd, Jeffersonville, IN 47130",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PUR1":{
 		"state":"Indiana",
 		"type":"",
 		"address":"1198 Third Street, Krach Leadership Center Room 169, West Lafayette, IN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SDF8":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"900 Patrol Road, Jeffersonville, IN 47130",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOJ":{
 		"state":"Indiana",
 		"type":"",
 		"address":"1615 Fletcher Ave, FORT WAYNE, IN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TIN1":{
 		"state":"Indiana",
 		"type":"",
 		"address":"710 S. Girls School Road, Indianapolis, IN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UIN1":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"505 S Tibbs Ave, Indianapolis, IN 46241",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUHA":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"700 Chase Street, Gary, IN 46404",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUMC":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"650 Commerce Pkwy W Drive, Greenwood, IN 46143",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUQD":{
 		"state":"Indiana",
 		"type":"",
 		"address":"3101 IN-62, Mt Vernon, IN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUQF":{
 		"state":"Indiana",
 		"type":"",
 		"address":"2100 Innovation Blvd, Mooresville, IN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUQH":{
 		"state":"Indiana",
 		"type":"",
 		"address":"381 Airtech Pkwy, Plainfeild, IN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUQO":{
 		"state":"Indiana",
 		"type":"",
 		"address":"2425 E. Perry Rd, PLAINFIELD, IN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSE":{
 		"state":"Indiana",
 		"type":"FC",
 		"address":"5100 S Indianapolis Road, Whitestown, IN 46075",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MCI1":{
 		"state":"Kansas",
 		"type":"FC",
 		"address":"113th Street and Renner Boulevard, Lenexa, KS, 66219",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MCI5":{
 		"state":"Kansas",
 		"type":"SC",
 		"address":"16851 W 113th Street, Lenexa, KS 66219",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MCI7":{
 		"state":"Kansas",
 		"type":"FC",
 		"address":"27200 W 157th St, New Century, KS 66031",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MCIX":{
 		"state":"Kansas",
 		"type":"FC",
 		"address":"113th Street and Renner Boulevard, Lenexa, KS 66219",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MKC4":{
 		"state":"Kansas",
 		"type":"FC",
 		"address":"19645 Waverly Road, Edgerton, KS 66021-9588",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MKC6":{
 		"state":"Kansas",
 		"type":"FC",
 		"address":"6925 Riverview Ave., Kansas City, KS 66102",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TUL1":{
 		"state":"Kansas",
 		"type":"FC",
 		"address":"2654 N US Highway 169 Coffeyville, KS 67337",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSK":{
 		"state":"Kansas",
 		"type":"FC",
 		"address":"31450 W 196th St., Edgerton, KS 66021",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CVG1":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"1155 Worldwide Blvd. Hebron, KY 41048",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CVG2":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"1600 Worldwide Blvd. Hebron, KY 41048",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CVG3":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"3680 Langley Drive, Hebron, KY 41048",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CVG5":{
 		"state":"Kentucky",
 		"type":"Logistics Center",
 		"address":"2285 Litton Ln, Hebron, KY 41048, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CVG7":{
 		"state":"Kentucky",
 		"type":"SC",
 		"address":"2285 Litton Ln, Hebron, KY 41048, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CVG8":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"7968 Kentucky Dr, Suites 23, Florence, Kentucky 41042 , Boone County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DKY1":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"409 S 5th St, Louisville, KY 40202",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IVSA":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"4620 Olympic Blvd, Erlanger, Kentucky 41018 , Kenton County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IVSB":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"3521 POINT PLEASANT RD, Hebron, Kentucky, US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LEX1":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"1850 Mercer Road, Lexington, KY 40511",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LEX2":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"172 Trade Street, Lexington, Kentucky 40511",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LEX3":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"1850 Mercer Rd Lexington, KY 40511 – Fayette County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PICV":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"1155 Worldwide Blvd., Hebron, KY 41048",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PISB":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"376 Zappos.com Blvd, Shepherdsville, KY 40165",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PISC":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"271 Omega Parkway, Shepherdsville, KY 40165",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SDF1":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"1105 S Columbia Avenue, Campbellsville, KY 42718",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SDF2":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"4360 Robards Lane, Louisville, KY 40218",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SDF4":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"376 Zappos.com Boulevard, Shepherdesville, KY 40165",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SDF6":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"271 Omega Parkway, Shepherdsville, KY 40165",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SDF7":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"300 Omicron Court, Shepherdsville, KY 40165",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SDF9":{
 		"state":"Kentucky",
 		"type":"FC",
 		"address":"100 W. Thomas P. Echols Lane, Shepherdsville, KY 40165",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SU2A":{
 		"state":"Kentucky",
 		"type":"",
 		"address":"1201 Aviation Blvd, Hebron, KY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAA":{
 		"state":"Kentucky",
 		"type":"",
 		"address":"1201 Aviation Blvd, Hebron, KY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBH":{
 		"state":"Kentucky",
 		"type":"",
 		"address":"817 Winchester Rd, Suite 130, Lexington, KY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUDA":{
 		"state":"Kentucky",
 		"type":"",
 		"address":"8179 Dixie Hwy, Suite 200, Florence, KY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUDB":{
 		"state":"Kentucky",
 		"type":"",
 		"address":"8179 Dixie Highway, Suite 200, Florence, KY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUSA":{
 		"state":"Kentucky",
 		"type":"",
 		"address":"7201 Intermodal Dr, Suite C, Louisville, KY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUVC":{
 		"state":"Kentucky",
 		"type":"",
 		"address":"2500 Export Dr, Door 1, Louisville, KY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CVG9":{
 		"state":"Kentucky",
 		"type":"Warehouse",
 		"address":"2305 Litton Ln, Hebron, KY 41048, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLB1":{
 		"state":"Louisiana",
 		"type":"",
 		"address":"10021 Professional Blvd, Baton Rouge, LA 70809, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DNO1":{
 		"state":"Louisiana",
 		"type":"FC",
 		"address":"337 Carondelet St, NewOrleans, LA 70130",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHX":{
 		"state":"Maine",
 		"type":"",
 		"address":"104A GLENN ST, LAWRENCE, ME",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BWI0":{
 		"state":"Maryland",
 		"type":"FC",
 		"address":"2010 Broening Highway, Baltimore, MD 21224",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BWI5":{
 		"state":"Maryland",
 		"type":"SC",
 		"address":"5501 Holabird Avenue, Baltimore, MD 21224",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DBA1":{
 		"state":"Maryland",
 		"type":"FC",
 		"address":"3800 E Baltimore St, Baltimore, MD 21224",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCA1":{
 		"state":"Maryland",
 		"type":"FC",
 		"address":"1700 SPARROWS POINT BLVD, SPARROWS POINT, MD 21219",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DDC2":{
 		"state":"Maryland",
 		"type":"FC",
 		"address":"861 E Gude Drive, Rockville, MD 20850",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HBA1":{
 		"state":"Maryland",
 		"type":"DC",
 		"address":"1100 Woodley Rd, Aberdeen, Maryland 210014042 , Harford County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HSE1":{
 		"state":"Maryland",
 		"type":"",
 		"address":"13905 Crayton Blvd, Hagerstown, Maryland 21742 , Washington County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MAS1":{
 		"state":"Maryland",
 		"type":"",
 		"address":"220 Campus Center, 1 Campus Center Way, Amherst, MA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDT2":{
 		"state":"Maryland",
 		"type":"FC",
 		"address":"600 Principio Parkway West, North East, MD 21901-2914",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RMD1":{
 		"state":"Maryland",
 		"type":"FC",
 		"address":"201-211 E Fayette St, Baltimore, MD 21202",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SMA1":{
 		"state":"Maryland",
 		"type":"",
 		"address":"5 5TH ST, PEABODY, MA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHM":{
 		"state":"Maryland",
 		"type":"",
 		"address":"142 Franklin St, Melrose, MA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOC":{
 		"state":"Maryland",
 		"type":"FC",
 		"address":"8750 Larkin Rd, Savage, MD 20763",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUSK":{
 		"state":"Maryland",
 		"type":"",
 		"address":"153 Washington St, 1st Floor, East Walpole, MA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUSL":{
 		"state":"Maryland",
 		"type":"",
 		"address":"153 Washington St, 1st Floor, East Walpole, MA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD":{
 		"state":"Maryland",
 		"type":"FC",
 		"address":"1600 Sparrow Point B…, Dundalk, MA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TMA3":{
 		"state":"Maryland",
 		"type":"",
 		"address":"30 Northampton Street, Boston, MA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UMA4":{
 		"state":"Maryland",
 		"type":"",
 		"address":"201 Beacham St, Chelsea, MA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSP":{
 		"state":"Maryland",
 		"type":"Warehouse",
 		"address":"1100 Woodley Rd, Aberdeen, MD 21001, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MAR1":{
 		"state":"MaryLand",
 		"type":"",
 		"address":"4200 Guilford Dr, Suite B1, College Park, MD",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCA6":{
 		"state":"MaryLand",
 		"type":"",
 		"address":"6001 Bethlehem Blvd, Baltimore, MD",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MTN5":{
 		"state":"MaryLand",
 		"type":"",
 		"address":"5300 Holabird Ave, Baltimore, MD",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SDC2":{
 		"state":"MaryLand",
 		"type":"",
 		"address":"2 UNIVERSITY BLVD W, SILVER SPRING, MD",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TMD1":{
 		"state":"MaryLand",
 		"type":"",
 		"address":"5501 Holabird Ave, Baltimore, MD",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSL":{
 		"state":"MaryLand",
 		"type":"FC",
 		"address":"610 Chelsea Rd, Aberdeen, MD 21001",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSM":{
 		"state":"MaryLand",
 		"type":"FC",
 		"address":"610 Chelsea Rd, Aberdeen, MD 21001",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BOS2":{
 		"state":"Massachusetts",
 		"type":"Distribution service",
 		"address":"1000 Tech Centre, Drive Stoughton, Massachusetts, US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BOS3":{
 		"state":"Massachusetts",
 		"type":"FC",
 		"address":"Fall River, MA 2720",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BOS5":{
 		"state":"Massachusetts",
 		"type":"SC",
 		"address":"1000 Tech Center Drive, Stoughton, MA 02072",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BOS7":{
 		"state":"Massachusetts",
 		"type":"FC",
 		"address":"1180 Innovation Way, Fall River, MA 02722",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BOS8":{
 		"state":"Massachusetts",
 		"type":"",
 		"address":"870 Commonwealth Ave, Brookline, MA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BOS9":{
 		"state":"Massachusetts",
 		"type":"",
 		"address":"750 Everett St, Norwood, MA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DB01":{
 		"state":"Massachusetts",
 		"type":"FC",
 		"address":"201 Beacham Street, Everett (Chelsea), MA 2149",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DB02":{
 		"state":"Massachusetts",
 		"type":"FC",
 		"address":"500 Sprague St., Dedham, MA 2026",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DBO2":{
 		"state":"Massachusetts",
 		"type":"FC",
 		"address":"199 Eastern Ave, Dedham, MA 2026",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RMA3":{
 		"state":"Massachusetts",
 		"type":"FC",
 		"address":"112-116 Newland St, Boston, MA 2118",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UMA3":{
 		"state":"Massachusetts",
 		"type":"FC",
 		"address":"30 Northampton Street, Boston, MA 2118",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BOS10":{
 		"state":"Massachusetts",
 		"type":"FC",
 		"address":"50 Otis Street, Westborough, MA 01581",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "Illinois":{
 		"state":"MDW3",
 		"type":"FC",
 		"address":"809 S Wright St, Champaign, IL 61820, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DDT1":{
 		"state":"Michigan",
 		"type":"",
 		"address":"1400 E 10 Mile Rd, Ste 190, Hazel Park, MI 48030, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DDT4":{
 		"state":"Michigan",
 		"type":"",
 		"address":"7009 W Mount Hope Hwy Lansing, MI 48917 United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DTW5":{
 		"state":"Michigan",
@@ -3772,1631 +3772,1631 @@
 		"warnings":[
 			"Do not enter from King. You must approach the site from the north."
 		],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DTW8":{
 		"state":"Michigan",
 		"type":"",
 		"address":"9075 N Haggerty Rd, Plymouth, MI 48170, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DET2":{
 		"state":"Michigan",
 		"type":"FC",
 		"address":"50500 Mound Rd, Shelby Township, MI 48317",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DET6":{
 		"state":"Michigan",
 		"type":"FC",
 		"address":"20110 Woodward Ave Detroit, MI 48203 United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DTW2":{
 		"state":"Michigan",
 		"type":"FC",
 		"address":"32801 Ecorse Rd, Romulus, MI 48174, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DTW9":{
 		"state":"Michigan",
 		"type":"FC",
 		"address":"33700 Prescott St, Romulus, MI 48174, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DGR6":{
 		"state":"Michigan",
 		"type":"",
 		"address":"3951 Trade Dr Grand Rapids, MI 49508 United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DGR8":{
 		"state":"Michigan",
 		"type":"",
 		"address":"3415 Northridge Dr NW, Walker, MI 49544, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DTW3":{
 		"state":"Michigan",
 		"type":"FC",
 		"address":"23 mile and mound roads, Shelby, MI, 48316",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HDT9":{
 		"state":"Michigan",
 		"type":"",
 		"address":"33701 Prescott St, Romulus, MI 48174, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAN2":{
 		"state":"Michigan",
 		"type":"",
 		"address":"6500 W Mount Hope Hwy Lansing, MI 48917 United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "GRR1":{
 		"state":"Michigan",
 		"type":"FC",
 		"address":"4500 68th St. SE, Caledonia (Gaines Township), Michigan 49316 , Kent County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHH":{
 		"state":"Michigan",
 		"type":"",
 		"address":"45410 Van Dyke, Utica, MI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUSI":{
 		"state":"Michigan",
 		"type":"",
 		"address":"7194 Big Sky Drive Suite 5, Holly, MI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUTA":{
 		"state":"Michigan",
 		"type":"",
 		"address":"4503 Airwest DR SE, Kentwood, MI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UMI2":{
 		"state":"Michigan",
 		"type":"",
 		"address":"999 Chicago Road, Troy, MI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSR":{
 		"state":"Michigan",
 		"type":"",
 		"address":"5425 Dixie Highway, Saginaw, MI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DET1":{
 		"state":"Michigan",
 		"type":"FC",
 		"address":"39000 Amrhein Rd, Livonia, MI 48150",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DTW1":{
 		"state":"Michigan",
 		"type":"FC",
 		"address":"39000 Amrhein Rd., Livonia, MI 48150-1043",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DTW4":{
 		"state":"Michigan",
 		"type":"FC",
 		"address":"1837 S Telegraph Road, Pontiac, MI 48341",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ATL9":{
 		"state":"Minnesota",
 		"type":"FC",
 		"address":"2232 Northmont Parkway, Duluth, GA 30096",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CLE1":{
 		"state":"Minnesota",
 		"type":"FC",
 		"address":"4641 Warrensville Ce… North Randall, 44128",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DMN1":{
 		"state":"Minnesota",
 		"type":"FC",
 		"address":"2811 Beverly Drive, Eagen, MN 55121",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DMS1":{
 		"state":"Minnesota",
 		"type":"FC",
 		"address":"4216 Pilot Knob Rd, Eagan, MN 55123",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MIN1":{
 		"state":"Minnesota",
 		"type":"",
 		"address":"311 SE Harvard Street, Minneapolis, MN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MSP1":{
 		"state":"Minnesota",
 		"type":"FC",
 		"address":"2601 4th Avenue East, Shakopee, MN 55379",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MSP4":{
 		"state":"Minnesota",
 		"type":"",
 		"address":"10608 HUDSON RD, WOODBURY, MN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MSP5":{
 		"state":"Minnesota",
 		"type":"SC",
 		"address":"5825 11th Avenue East, Shakopee, MN 55379",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MSP9":{
 		"state":"Minnesota",
 		"type":"Warehouse",
 		"address":"9001 Wyoming Ave N, Brooklyn Park, MN 55445, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RMN1":{
 		"state":"Minnesota",
 		"type":"FC",
 		"address":"301-399 S 4th St, Minneapolis, MN 55401",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RMN2":{
 		"state":"Minnesota",
 		"type":"FC",
 		"address":"301-399 S 4th St, Minneapolis, MN 55401",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHV":{
 		"state":"Minnesota",
 		"type":"",
 		"address":"10335 Naples ST NE, Blaine, MN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUVA":{
 		"state":"Minnesota",
 		"type":"",
 		"address":"8933 Lyndale Ave S, Bloomington, MN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TMN1":{
 		"state":"Minnesota",
 		"type":"",
 		"address":"763 Kasota Ave, Minneapolis, MN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UMN1":{
 		"state":"Minnesota",
 		"type":"FC",
 		"address":"763 Kasota Ave., Minneapolis, MN 55414",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UMN2":{
 		"state":"Minnesota",
 		"type":"",
 		"address":"6105 Trenton Ln N, MINNEAPOLIS, MN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MEM2":{
 		"state":"Mississippi",
 		"type":"FC",
 		"address":"191 Norfolk Southern Way, Chickasaw Trails Industrial Park Byhalia, Mississippi 386112306 , Marshall County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MEM6":{
 		"state":"Mississippi",
 		"type":"",
 		"address":"11505 Progress Way, Olive Branch, MS",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "JAN1":{
 		"state":"Mississippi",
 		"type":"FC",
 		"address":"1010 E Northside Drive, Clinton, MS 39056",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLI1":{
 		"state":"Missouri",
 		"type":"FC",
 		"address":"1200 Market St, St. Louis, MO 63103",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "STL5":{
 		"state":"Missouri",
 		"type":"SC",
 		"address":"462 Hazelwood Logistics Center Dr, Hazelwood, MO 63042, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "STL8":{
 		"state":"Missouri",
 		"type":"FC",
 		"address":"4000 Premier Parkway, St. Peters, Missouri 63376 , St. Charles County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPU":{
 		"state":"Missouri",
 		"type":"",
 		"address":"14916 STATE HIGHWAY 177, Building 1, Jackson, MO",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPV":{
 		"state":"Missouri",
 		"type":"",
 		"address":"2001 Premier Pkwy, Saint Peters, MO",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUEH":{
 		"state":"Montana",
 		"type":"",
 		"address":"1760 West Terra Lane, OFallon, MT",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHA":{
 		"state":"Nebraska",
 		"type":"",
 		"address":"9203 J Street, Omaha, NE",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHI":{
 		"state":"Nebraska",
 		"type":"",
 		"address":"870 S. 16th St., Aurora, NE",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VFSN":{
 		"state":"Nebraska",
 		"type":"",
 		"address":"7401 F ST, OMAHA, NE",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ICSF":{
 		"state":"Nevada",
 		"type":"",
 		"address":"2821 MARION DR STE 109, LAS VEGAS, NV",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IVSE":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"2951 MARION DR UNIT 101 LAS VEGAS, NV 89115-3467 United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IVSF":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"2821 MARION DR STE 109",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAS1":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"12300 Bermuda Road, Henderson, Nevada 89044 , Clark County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAS2":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"3837 Bay Lake Trail, Suite 113, Las Vegas, NV 89193-0001",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAS5":{
 		"state":"Nevada",
 		"type":"SC",
 		"address":"4410 Nexus Way, Las Vegas, NV 89115, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAS6":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"4550 Nexus Way, North Las Vegas, NV 89115",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LAS7":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"6001 E. Tropical Parkway, North Las Vegas, NV , Clark County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LASX":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"North Lamb Blvd and Tropical Parkway, North Las Vegas, NV 89081",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "OTC1":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"257 S Pavilion Center Dr, LasVegas, NV 89144",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RNO1":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"1600 East Newlands Dr. Fernley, NV 89408",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RNO2":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"8000 North Virginia Street Reno, Reno, NV 85906",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RNO3":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"555 Milan Dr, Sparks, Nevada 89434 , Washoe County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RNO4":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"8000 North Virginia Street, Reno, NV 89506",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RNV1":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"100 E Ogden Ave, Las Vegas, NV 89101",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TNV2":{
 		"state":"Nevada",
 		"type":"",
 		"address":"1945 E. Russell Rd, LAS VEGAS, NV",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UNV1":{
 		"state":"Nevada",
 		"type":"FC",
 		"address":"3650 East Post Road. Suite E, Las Vegas, NV 89120",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UNV2":{
 		"state":"Nevada",
 		"type":"",
 		"address":"1945 E RUSSELL RD SUITES 201-204, Las Vegas, NV",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UNV3":{
 		"state":"Nevada",
 		"type":"",
 		"address":"2951 N Marion Dr Suite 101-103, Las Vegas, NV",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BOS1":{
 		"state":"New Hampshire",
 		"type":"FC",
 		"address":"10 State Street, Nashua, NH 03063",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ABE8":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"309 Cedar Lane, Florence Township, NJ 08518",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ABEX":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"698 Route 46 West, Teterboro, NJ 7608",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ACY1":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"240 Mantua Grove Rd, West Deptford, NJ 08066",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ACY2":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"1101 E. Pearl St., Burlington, NJ 080161934 , Burlington County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ACY5":{
 		"state":"New Jersey",
 		"type":"SC",
 		"address":"2277 Center Square Road, Swedesboro, Logan Township, NJ 08085",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BFC1":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"380 Middlesex Ave, CARTERET, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DEW1":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"2 Empire Boulevard, Moonachie, NJ 7074",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DEW2":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"1089 E Jersey St, Elizabeth, NJ 7201",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DNJ1":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"380 Middlesex Ave, CARTERET, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "EWR1":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"50 New Canton Way Robbinsville, NJ 08691 – Mercer County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "EWR4":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"50 New Canton Way, Robbinsville, NJ 08691",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "EWR5":{
 		"state":"New Jersey",
 		"type":"SC",
 		"address":"301 Blair Road #100, Avenel, NJ 07001",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "EWR6":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"275 Omar Avenue, Avenel, NJ 07001",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "EWR7":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"275 Omar Avenue, Avenel, NJ 07001",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "EWR8":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"698 US-46, Teterboro, NJ 07608",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "EWR9":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"8003 Industrial Avenue, Carteret, NJ 07008",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FGA3":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"2500 Main Street, LawrenceTownship, NJ 8648",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HNJ2":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"940 Monroe Street, Hoboken, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "INT2":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"275 Omar Avenue, AVENEL, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IVSC":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"Uno – West Deptford 1225 Forest Parkway West Deptf",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IVSD":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"UNO – Swedesboro NJ 800 Arlington Blvd Swedesboro",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGA6":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"8003 Industrial Ave. Carteret, NJ 07008-3529",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGA7":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"380 Middlesex Avenue, Carteret, NJ 07008",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGA8":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"380 Middlesex Avenue, Carteret, NJ 07008",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LGA9":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"2170 State Route 27, Edison, NJ 08817-3332",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PNE2":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"18 Applegate Dr., Robbinsville, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PNE5":{
 		"state":"New Jersey",
 		"type":"Warehouse",
 		"address":"18 Applegate Dr, Robbinsville Twp, NJ 08691, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SBPX":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"Somerset, NJ, 8873",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SFBG":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"LAKEWOOD; NJ; 08701-4053; US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUCD":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"80 Carter Dr., Edison, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUEG":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"86 Mayfield Ave, Edison, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHE":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"239 Old New Brunswick Road Dock 7&amp;8, Piscataway, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUMA":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"1201 Jersey Avenue, North Brunswick, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOE":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"74 Kenny Pl, Saddle Brook, NJ 7663",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOM":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"1230 Highway 34, Aberdeen, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPH":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"4201 tonelle ave, North Bergen, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPM":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"1-AB Terminal Way, Avenel, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPN":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"4201 tonelle ave, North Bergen, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUWB":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"150 Ethel Road West, Piscataway, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SXWL":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"Rockaway; New Jersey; 07866",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD5":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"8003 Industrial Ave, Building A, Carteret, NJ 8085",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBDB":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"2 Empire Boulevard, Moonachie, NJ 7074",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TEB3":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"2651 Oldmans Creek Rd, Swedesboro, Logan Township, NJ 08085-4503",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TEB6":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"22 Highstown-Cranbury Station Road, Cranbury Township, NJ 08512",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TTN1":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"Florence, NJ 8518",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UNJ1":{
 		"state":"New Jersey",
 		"type":"FC",
 		"address":"940 Monroe Street, Hoboken, NJ 7030",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUKI":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"400 Arlington Blvd, Swedesboro, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUKZ":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"400 Arlington Blvd, Logan Township, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUME":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"200 Docks Corner Road, Suite 241, South Brunswick, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XIX1":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"18 APPLEGATE DR, ROBBINSVILLE, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSQ":{
 		"state":"New Jersey",
 		"type":"",
 		"address":"152 Route 206, Hillsborough, NJ",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ALB1":{
 		"state":"New York",
 		"type":"",
 		"address":"1801 Route 9, Rensselaer, New York",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BUF5":{
 		"state":"New York",
 		"type":"SC",
 		"address":"4201 Walden Avenue, Lancaster, NY 14086",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BUF9":{
 		"state":"New York",
 		"type":"",
 		"address":"4201 Walden Ave, Lancaster, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DYY6":{
 		"state":"New York",
 		"type":"DC",
 		"address":"546 Gulf Ave, Staten Island NY 10314-7120 – Richmond County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FDN1":{
 		"state":"New York",
 		"type":"",
 		"address":"80 Grumman Rd, BETHPAGE, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "JFK2":{
 		"state":"New York",
 		"type":"FC",
 		"address":"1100 Bryant Park, NewYork, NY 10036",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "JFK7":{
 		"state":"New York",
 		"type":"FC",
 		"address":"7 W. 34th St., New York, NY 10001",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "JFK8":{
 		"state":"New York",
 		"type":"FC",
 		"address":"546 GULF AVE, STATEN ISLAND, NY 10314",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "JFK9":{
 		"state":"New York",
 		"type":"",
 		"address":"80 Grumman Rd W, Bethpage, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SBU1":{
 		"state":"New York",
 		"type":"",
 		"address":"100 Nicolas Road, Frank Melville Jr. Library, Room E0319, Stony Brook, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAZ":{
 		"state":"New York",
 		"type":"",
 		"address":"1189 McDonald Ave, Brooklyn, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBD":{
 		"state":"New York",
 		"type":"",
 		"address":"81 Christopher St, Staten Island, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUEB":{
 		"state":"New York",
 		"type":"",
 		"address":"135 West 36th Street FL 13, New York, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUGA":{
 		"state":"New York",
 		"type":"",
 		"address":"4060 Hylan Blvd, Staten Island, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUGC":{
 		"state":"New York",
 		"type":"",
 		"address":"175 Van Dyke St., Brooklyn, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHP":{
 		"state":"New York",
 		"type":"",
 		"address":"45 Leone Lane, CHESTER, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOG":{
 		"state":"New York",
 		"type":"",
 		"address":"19 Robert Pitt Drive, Ste 103, Monsey, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOP":{
 		"state":"New York",
 		"type":"",
 		"address":"1673 NY-17M, Chester, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOX":{
 		"state":"New York",
 		"type":"",
 		"address":"19 Robert Pitt Drive STE 103, Monsey, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPJ":{
 		"state":"New York",
 		"type":"",
 		"address":"4737 van dam street, Long island City, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SZBV":{
 		"state":"New York",
 		"type":"",
 		"address":"Copiague, NY, 11726. TAM1, 2800 South",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TNY1":{
 		"state":"New York",
 		"type":"",
 		"address":"850 3rd Ave., Brooklyn, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TNYA":{
 		"state":"New York",
 		"type":"",
 		"address":"7 W 34th Street, New York, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UNY1":{
 		"state":"New York",
 		"type":"FC",
 		"address":"58 Brooklyn Ave, Brooklyn, NY 11216",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UNY2":{
 		"state":"New York",
 		"type":"",
 		"address":"1080 Leggett Ave, BRONX, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UNY3":{
 		"state":"New York",
 		"type":"",
 		"address":"57-00 49th Place, MASPETH, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUQC":{
 		"state":"New York",
 		"type":"",
 		"address":"2020 Ocean Avenue, Ronkonkoma, NY",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ZZZZ":{
 		"state":"New York",
 		"type":"FC",
 		"address":"7 W 34th St, New York, NY 10001, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SYR1":{
 		"state":"New York",
 		"type":"FC",
 		"address":"6834 Kirkville Road, East Syracuse, NY 13057",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SYR2":{
 		"state":"New York",
 		"type":"FC",
 		"address":"3300 Morgan Road, Clay, NY 13041",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CLT1":{
 		"state":"North Carolina",
 		"type":"SC",
 		"address":"1745 Derita Rd., Concord, NC 28027-3353",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CLT2":{
 		"state":"North Carolina",
 		"type":"FC",
 		"address":"10240 Old Dowd Rd, Charlotte, NC 28214",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CLT3":{
 		"state":"North Carolina",
 		"type":"FC",
 		"address":"6500 Davidson Hwy, Concord, NC 28027",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CLT4":{
 		"state":"North Carolina",
 		"type":"FC",
 		"address":"8000 Tuckaseegee Road, Charlotte, NC 28214 , Mecklenburg County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CLT5":{
 		"state":"North Carolina",
 		"type":"SC",
 		"address":"1745 Derita Road, Concord, NC 28027",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLT1":{
 		"state":"North Carolina",
 		"type":"FC",
 		"address":"101 S Tryon St, Charlotte, NC 28280",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "GS01":{
 		"state":"North Carolina",
 		"type":"",
 		"address":"1656 OLD GREENSBORO RD, KERNERSVILLE, NC",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "GSO1":{
 		"state":"North Carolina",
 		"type":"",
 		"address":"1656 Old Greensboro Rd, Kernersville, NC",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RDU1":{
 		"state":"North Carolina",
 		"type":"DC",
 		"address":"4851 Jones Sausage Road, Garner, North Carolina 27529 , Wake County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RDU5":{
 		"state":"North Carolina",
 		"type":"SC",
 		"address":"1805 TW Alexander Drive, Durham, NC 27703",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHL":{
 		"state":"North Carolina",
 		"type":"",
 		"address":"1213 Maple Avenue, Burlington, NC",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUSG":{
 		"state":"North Carolina",
 		"type":"",
 		"address":"500 S Main Street, Mooresville, NC",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TNC1":{
 		"state":"North Carolina",
 		"type":"",
 		"address":"300 Dalton Ave., CHARLOTTE, NC",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UNC1":{
 		"state":"North Carolina",
 		"type":"FC",
 		"address":"Charlotte, NC 28201",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UNC2":{
 		"state":"North Carolina",
 		"type":"FC",
 		"address":"3200 Bush Street, Raleigh, NC 27609",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UNC3":{
 		"state":"North Carolina",
 		"type":"",
 		"address":"4525 Statesville Ave, CHARLOTTE, NC",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XLBA":{
 		"state":"North Carolina",
 		"type":"",
 		"address":"1123 4th ST SW, Conover, NC",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CLE3":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"1115 Babbitt Rd, Euclid, OH 44132, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "AKC1":{
 		"state":"Ohio",
 		"type":"",
 		"address":"2400 ROMIG RD, Summit, Ohio",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CAK1":{
 		"state":"Ohio",
 		"type":"",
 		"address":"290 E Exchange Street, Akron, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CIN1":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"UC MainStreet, Cincinnati, OH 45219",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CLE2":{
 		"state":"Ohio",
 		"type":"Corporate Office",
 		"address":"21500 Emery Rd, North Randall, OH 44128",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CLE5":{
 		"state":"Ohio",
 		"type":"SC",
 		"address":"8685 Independence Parkway, Twinsburg, OH 44087",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CLE6":{
 		"state":"Ohio",
 		"type":"",
 		"address":"23371 Aurora Road, Bedford Heights, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CMH0":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"11903 National RD SW Etna Township Park, Etna, OH 43062",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CMH1":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"11999 National Road SW Etna, OH 43062-7793 United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CMH2":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"2700 Rohr Road, Groveport, OH 43125",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CMH3":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"700 Gateway Blvd., Monroe, OH 450501848 , Warren County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CMH4":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"1550 W Main St., West Jefferson, Ohio 43162 , Madison County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CMH6":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"3538 TRADEPORT CT, Lockbourne, Ohio, US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCL1":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"790-796 E 222nd St, Euclid, OH 44123",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCL2":{
 		"state":"Ohio",
 		"type":"AMZL",
 		"address":"2823 Gilchrist Rd, Akron, OH 44305, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DCL3":{
 		"state":"Ohio",
 		"type":"AMZL",
 		"address":"12111 Debartolo Dr, North Jackson, OH 44451, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FMD1":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"101-199 Mckinley Ave SW, Canton, OH 44702",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HCM1":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"3538 TradePort Ct, Building 2, Lockbourne, OH 43137 – Franklin County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "KILN":{
 		"state":"Ohio",
 		"type":"",
 		"address":"150 Ruane Dr, Wilmington, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LCK1":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"Obetz, OH 43207",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "OKC9":{
 		"state":"Ohio",
 		"type":"",
 		"address":"1155 Babbitt Rd., Euclid, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "OSU1":{
 		"state":"Ohio",
 		"type":"",
 		"address":"2114 N. High Street, Columbus, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PCW1":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"27400 Crossroads Pkwy, Rossford, OH 43460, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "POH1":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"3880 Groveport Road, Obetz, Ohio 43207 , Franklin County (Seasonal Facility)",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ROH2":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"1 Capitol Square, Columbus, OH 43215",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAB":{
 		"state":"Ohio",
 		"type":"",
 		"address":"2800 CORPORATE EXCHANGE DRIVE, Columbus, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAS":{
 		"state":"Ohio",
 		"type":"",
 		"address":"2800 Corporate Exchange Drive, Columbus, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHO":{
 		"state":"Ohio",
 		"type":"",
 		"address":"355 Tomahawk Drive Suite3, Maumee, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUJE":{
 		"state":"Ohio",
 		"type":"",
 		"address":"5124 Cleveland Rd, Wooster, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPC":{
 		"state":"Ohio",
 		"type":"",
 		"address":"503 West High St, Hicksville, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"100 Euclid Square Ma…, Euclid, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD8":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"Etna Township Park, Etna, OH 43062",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD9":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"Alum Creek Drive, Obetz, OH 43207",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UMD1":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"101-199 Mckinley Ave SW, Canton, OH 44702",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UOH1":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"Winton Hills, Cincinnati, OH 45232",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UOH2":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"3563 Interchange Rd, Columbus, OH 43204",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UOH4":{
 		"state":"Ohio",
 		"type":"",
 		"address":"4401 Equity Dr, COLUMBUS, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUHG":{
 		"state":"Ohio",
 		"type":"",
 		"address":"28625 Fountain Parkway, Solon, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPW":{
 		"state":"Ohio",
 		"type":"",
 		"address":"8778 Le St Dr, West Chester, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XLAE":{
 		"state":"Ohio",
 		"type":"",
 		"address":"5330 Crosswind Dr, Columbus, OH",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DAY3":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"700 Gateway Blvd, Monroe, OH 45050, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "AKR1":{
 		"state":"Ohio",
 		"type":"FC",
 		"address":"1200 S Arlington Street, Akron, OH 44306",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "OKC1":{
 		"state":"Oklahoma",
 		"type":"FC",
 		"address":"9201 S. Portland Ave., Oklahoma City, OK 73159 , Oklahoma County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "OKC5":{
 		"state":"Oklahoma",
 		"type":"SC",
 		"address":"1414 S Council Rd, Oklahoma City, OK 73179, United States’",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TUL2":{
 		"state":"Oklahoma",
 		"type":"",
 		"address":"4040N 125TH E AVE, Tulsa, OK",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DP01":{
 		"state":"Oregon",
 		"type":"FC",
 		"address":"Portland, OR 75234",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DPD1":{
 		"state":"Oregon",
 		"type":"FC",
 		"address":"3333-3681 NW 35th Ave, Portland, OR 97210",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HIO9":{
 		"state":"Oregon",
 		"type":"",
 		"address":"23677 NM Huffman St., Hillsboro, OR",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HPD1":{
 		"state":"Oregon",
 		"type":"FC",
 		"address":"15000 N. Lombard St., Multnomah, Portland, Oregon 97203-6814 – Multnomah County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PDX5":{
 		"state":"Oregon",
 		"type":"SC",
 		"address":"5647 NE Huffman St, Hillsboro, OR 97124",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PDX6":{
 		"state":"Oregon",
 		"type":"FC",
 		"address":"15000 N. Lombard St, Portland, Oregon, US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PDX7":{
 		"state":"Oregon",
 		"type":"FC",
 		"address":"4775 Depot Court SE, Salem, OR 973178983 , Marion County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PDX9":{
 		"state":"Oregon",
 		"type":"FC",
 		"address":"1250 NW Swigert Way, Troutdale, OR 97060",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "POR1":{
 		"state":"Oregon",
 		"type":"",
 		"address":"1131 SW Jefferson, Portland, OR",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ROR1":{
 		"state":"Oregon",
 		"type":"FC",
 		"address":"11 NW 6th Ave, Portland, OR 97209",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ROR2":{
 		"state":"Oregon",
 		"type":"FC",
 		"address":"5243-5299 SW 33rd Dr, Portland, OR 97239",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAY":{
 		"state":"Oregon",
 		"type":"",
 		"address":"10020 S Gibson Rd, Molalla, OR",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOS":{
 		"state":"Oregon",
 		"type":"",
 		"address":"9655 SW SUNSHINE CT, SUITE 300, BEAVERTON, OR",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOW":{
 		"state":"Oregon",
 		"type":"",
 		"address":"9655 SW Sunshine CT, Beaverton, OR",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TOR1":{
 		"state":"Oregon",
 		"type":"",
 		"address":"2104 NW York Street, Portland, OR",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UOR1":{
 		"state":"Oregon",
 		"type":"FC",
 		"address":"2250 Northwest 22nd Avenue, Portland, OR 97210",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UOR2":{
 		"state":"Oregon",
 		"type":"",
 		"address":"5015 NW FRONT AVE, PORTLAND, OR",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUOL":{
 		"state":"Oregon",
 		"type":"",
 		"address":"14005 North Lombard, Portland, OR",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PDX8":{
 		"state":"Oregon",
 		"type":"FC",
 		"address":"31400 SW Boones Ferry Road, Woodburn, OR 97071",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ABE1":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"705 Boulder Dr Breinigsville, PA 18031 – Lehigh County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ABE2":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"705 Boulder Drive, Breinigsville, PA 18031",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ABE3":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"650 Boulder Drive, Breinigsville, PA 18031",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ABE4":{
 		"state":"Pennsylvania",
@@ -5405,1903 +5405,1903 @@
 		"warnings":[
 			"No warnings reported."
 		],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ABE5":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"6455 Allentown Boulevard, Harrisburg, PA 17112",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ABE9":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"100 Quality Circle, Suite 106, Harrisburg, Pennsylvania",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "AVP1":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"550 Oak Ridge Road, Hazleton, PA 18202",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "AVP2":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"298 First Ave, Covington Township, PA 18424, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "AVP3":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"298 First Ave, Covington Township, PA 18424, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "AVP6":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"1 Commerce Road, Pittston, PA 18640",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "AVP8":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"250 Enterprise Way, Pittston, PA 18640",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DAE1":{
 		"state":"Pennsylvania",
 		"type":"Logistics",
 		"address":"2595 Brodhead Rd, Bethlehem, PA 18020, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DEW4":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"151-199 W Richardson Ave, Langhorne, PA 19047",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DMC1":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"401 Hollow Rd, East Stroudsburg, PA 18301",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DPH1":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"4219 Richmond Street, Philadelphia, PA 19137",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DPH2":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"435 General Maxwell Ln, King of Prussia, PA 19406",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDT1":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"2 Ames Drive, Carlisle, PA 17015",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MDT3":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"460 Research Drive, PITTISON, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PEN1":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"3800 Locust Walk, Class of 1920 Commons, Philadelphia, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHL4":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"21 Roadway Drive, Carlisle, PA 17015",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHL5":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"500 McCarthy Drive, Lewisberry, PA 17339",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHL6":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"675 Allen Road, Carlisle, PA 17015",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PHL9":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"2 Ames Drive, Carlisle, PA 17015",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PIT1":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"2250 Roswell Drive, Pittsburgh, PA 15205",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PIT2":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"101 N CAMPUS DR, IMPERIAL, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PIT5":{
 		"state":"Pennsylvania",
 		"type":"SC",
 		"address":"2250 Roswell Drive, Pittsburgh, PA 15205",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PPA1":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"545 Oak Hill Road, Mountaintop, Pennsylvania 18707 , Luzerne County (Seasonal Facility)",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PPH3":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"2306 South Street, PHILADELPHIA, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SCE1":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"134 South Allen St, State College, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SKTB":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"Montgomeryville, PA 18936",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAH":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"2901 Grant Ave, Philadelphia, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBE":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"921 E. Tolna Rd., New Freedom, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SULX":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"1728 Smallman St., Pittsburgh, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOR":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"3820 Hempland Rd, Mountville, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOT":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"3820 Hempland Rd, Mountville, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOY":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"1728 Smallman St., Pittsburgh, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TPAA":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"4101 Sansom St, Philadelphia, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VAVP":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"250 Enterprise Way, Pittston, PA 18640",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUAV":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"1 Commerce Road, Pittston, PA 18640",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUBA":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"1000 Keystone Industrial Park Scranton, PA 18512",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUBF":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"575 Old Forge Road, Union Township, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUCB":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"5197 Commerce Drive, YORK, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUGA":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"508 Delaware Avenue West Pittston, PA 18643",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUGJ":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"4275 Fritch Dr, Bethlehem, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUGL":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"1200 Distribution Drive, Carlisle, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUGM":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"597 Alexander Spring Rd., Carlisle, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUGP":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"234 Walnut Bottom Road, Shippensburg, PA 17257",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPH":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"9300 Olde Scotland Road, Shippensburg, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUQE":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"69 Green Mountain Road, Hazleton, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUQP":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"655 E Park St, LOCK HAVEN, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUWB":{
 		"state":"Pennsylvania",
 		"type":"",
 		"address":"6373 Brackbill Blvd, Mechanicsburg, PA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSC":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"40 Logistics Drive, Carlisle, PA 17013",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSG":{
 		"state":"Pennsylvania",
 		"type":"FC",
 		"address":"9645 West Hills Court, Kutztown, PA 19530",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CAE1":{
 		"state":"South Carolina",
 		"type":"FC",
 		"address":"4400 12th Street Extension, West Columbia, SC 29172",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CAE3":{
 		"state":"South Carolina",
 		"type":"FC",
 		"address":"222 Old Wire Road, West Columbia, SC 29172",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CHS1":{
 		"state":"South Carolina",
 		"type":"FC",
 		"address":"7290 Investment Drive, N Charleston, SC 29418",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "GSP1":{
 		"state":"South Carolina",
 		"type":"FC",
 		"address":"402 John Dodd Road, Spartanburg, SC 29303-6312",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SULF":{
 		"state":"South Carolina",
 		"type":"",
 		"address":"170 Longs Pond Rd, Lexington, SC",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUQM":{
 		"state":"South Carolina",
 		"type":"",
 		"address":"441 Masters Boulevard, Anderson, SC",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSU":{
 		"state":"South Carolina",
 		"type":"",
 		"address":"Rock Hill, SC 29730,US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BNA1":{
 		"state":"Tennessee",
 		"type":"FC",
 		"address":"14840 Central Pike, Lebanon, TN 37090",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BNA2":{
 		"state":"Tennessee",
 		"type":"FC",
 		"address":"500 Duke Drive, Lebanon, TN 37090",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BNA3":{
 		"state":"Tennessee",
 		"type":"FC",
 		"address":"2020 Joe B Jackson Parkway, Murfreesboro, TN 37127",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BNA4":{
 		"state":"Tennessee",
 		"type":"FC",
 		"address":"#BNA4 – 50 Airways Blvd Nashville, TN 37217",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BNA5":{
 		"state":"Tennessee",
 		"type":"SC",
 		"address":"50 Airways Blvd, Nashville, TN 37217",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CHA1":{
 		"state":"Tennessee",
 		"type":"FC",
 		"address":"7200 Discovery Drive, Chattanooga, TN 37416",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "CHA2":{
 		"state":"Tennessee",
 		"type":"FC",
 		"address":"225 Infinity Drive NW, Charleston, TN 37310",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DEDC":{
 		"state":"Tennessee",
 		"type":"",
 		"address":"2020 Joe B Jackson Parkway, Murfreesboro, TN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MEM1":{
 		"state":"Tennessee",
 		"type":"FC",
 		"address":"3292 E Holmes Rd, Memphis, Tennessee, US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MEM5":{
 		"state":"Tennessee",
 		"type":"FC",
 		"address":"5155 Citation Dr, Memphis, TN 38118, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RTN1":{
 		"state":"Tennessee",
 		"type":"FC",
 		"address":"600 Church St, Nashville, TN 37219",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SJWV":{
 		"state":"Tennessee",
 		"type":"",
 		"address":"Murfreesboro, TN – 37131",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "STN1":{
 		"state":"Tennessee",
 		"type":"",
 		"address":"2 Dell Parkway, NASHVILLE, TN,",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TTNA":{
 		"state":"Tennessee",
 		"type":"",
 		"address":"410 Harding Industrial Dr., Nashville, TN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UTN1":{
 		"state":"Tennessee",
 		"type":"FC",
 		"address":"600 Church St, Nashville, TN 37219",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XIX4":{
 		"state":"Tennessee",
 		"type":"",
 		"address":"5155 Citation Drive, MEMPHIS, TN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XLAJ":{
 		"state":"Tennessee",
 		"type":"",
 		"address":"3440 Meyers Rd, Memphis, TN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XSP1":{
 		"state":"Tennessee",
 		"type":"",
 		"address":"1115 Vaughn Parkway, Portland, TN",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MEM4":{
 		"state":"Tennessee",
 		"type":"FC",
 		"address":"3805 American Way, Memphis, TN 38118",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DAL3":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"1301 Chalk Hill Road, Dallas, Texas 75211 , Dallas County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DAL6":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"4601 Gold Spike Drive, Fort Worth, TX 76106",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DAL9":{
 		"state":"Texas",
 		"type":"DC",
 		"address":"1400 Southport Pkwy, Wilmer, TX 75172, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DAU1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2093-2209 Rutland Dr, Austin, TX 78758",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DAU2":{
 		"state":"Texas",
 		"type":"DC",
 		"address":"7000 Metropolis Dr, Austin, TX 78744, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DDA1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"13341-13399 Bee St, FarmersBranch, TX 75234",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DDA2":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"1101-1107 E 15th St, Plano, TX 75074",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DDA3":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"401 Commerce St, FortWorth, TX 76102",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DDC1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"12401 North Stemmons Fwy., Farmers Branch, TX 75234",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DFW1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2700 Regent Boulevard, DFW Airport, TX 75261",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DFW6":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"940 W Bethel Road, Coppell, TX 75019-4424",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DFW7":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"700 Westport Parkway, Fort Worth, TX 76177-4513",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DFW8":{
 		"state":"Texas",
 		"type":"SC",
 		"address":"2700 Regent Boulevard, DFW Airport, TX 75261",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DFW9":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2700 Regent Blvd, Irving, TX 75063",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DWF9":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2700 Regent Blvd., Irving, TX 75063",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FTW1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"33333 LBJ FWY, Dallas, Texas, US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FTW2":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"940 W Bethel Rd, Coppell, TX 75019-4424",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FTW3":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"15201 Heritage Parkway, Fort Worth, TX 76177-2517",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FTW4":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"15201 Heritage Parkway, Fort Worth, TX 76177-2517",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FTW6":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2601 W Bethel Road, Grapevine (Coppell), Texas 752614034 , Dallas County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FTW7":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"944 W. Sandy Lake Rd, Coppell, TX 75019-3989",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FTW8":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"3351 Balmorhea Dr. Dallas, TX 75241-7304",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FTW9":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"944 West Sandy Lake Road",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FTX4":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"1301-1399 Jackson St, Dallas, TX 75202",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FTX7":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"401 Commerce St, FortWorth, TX 76102",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HDA1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2701 W Bethel Rd, Coppell, TX 75261-4015 – Dallas County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HOU1":{
 		"state":"Texas",
 		"type":"SC",
 		"address":"8120 Humble Westfield Road, Humble, TX 77338",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HOU2":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"10550 Ella St., Houston, TX 77038-2324",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HOU3":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"31555 Highway 90 E, Brookshire, TX 77423-2769",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HOUX":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2701 W Bethel Road, Coppell, TX 75261",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HTX1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"4221 Way Out West Drive, Houston, TX 77092",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HTX2":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"4221 Way Out West Drive, Houston, TX 77092",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IAH6":{
 		"state":"Texas",
 		"type":"",
 		"address":"8401 Fallbrook Drive, Houston, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ITX1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"9851 Fallbrook Pines Drive Suite 100 Houston, TX 77064-3329",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ITX2":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"6911 FAIRBANKS N HOUSTON RD SUITE 160 Houston, TX 77040-1437 United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LBB1":{
 		"state":"Texas",
 		"type":"",
 		"address":"2407 9th Street, Suite 400, Lubbock, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PTX1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2101 Danieldate Road, Lancaster, Texas 75134 , Dallas County (Seasonal Facility)",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RAU1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"11299 Metric Blvd, Austin, TX 78758",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RDA1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"100-248 E Hudgins St, Grapevine, TX 76051",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RDA2":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"15700-15704 Hillcrest Rd, Dallas, TX 75248",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RTX2":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"501 Congress Ave, Austin, TX 78701",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RTX3":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"998 Bagby St, Houston, TX 77002",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RTX4":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"1502 Marilla St, Dallas, TX 75201",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RTX5":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"198 Dolorosa, San Antonio, TX 78205",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SAT1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"6000 Enterprise Avenue, Schertz, TX 78154",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SAT2":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"1401 E McCarty Ln, San Marcos, TX 78666",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SAT5":{
 		"state":"Texas",
 		"type":"SC",
 		"address":"1410 S. Callaghan Road, San Antonio, TX 78227",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "STX2":{
 		"state":"Texas",
 		"type":"",
 		"address":"1625 HUTTON DR, CARROLLTON, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUAD":{
 		"state":"Texas",
 		"type":"",
 		"address":"100 Syble Jean Dr., Burleson, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBG":{
 		"state":"Texas",
 		"type":"",
 		"address":"28651 Cranford Sage Ln, Katy, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUGB":{
 		"state":"Texas",
 		"type":"",
 		"address":"5283 N State Hwy 6, Woodway, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUHT":{
 		"state":"Texas",
 		"type":"",
 		"address":"1809 W. Frankford Rd, Suite 160, Carrollton, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOF":{
 		"state":"Texas",
 		"type":"",
 		"address":"6605 Roxburgh Dr. Suite 400, Houston, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOZ":{
 		"state":"Texas",
 		"type":"",
 		"address":"359 Pike Court, Suite 500, La Porte, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUSE":{
 		"state":"Texas",
 		"type":"",
 		"address":"188 County Road 4226, Decatur, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TAM1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2800 S Texas Avenue Suite 401, Bryan, TX 77802",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"TBD S Ih 35 Highway, San Marcos, 78666",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBD6":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"4800 LBJ Freeway, Dallas, TX 75241",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TBDA":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"1300 East McCarty Lane, San Marcos, TX 78666",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TEX1":{
 		"state":"Texas",
 		"type":"",
 		"address":"Gregory Gym, 2101 Speedway, Austin, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TTX2":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2209 Rutland Dr Ste B110, Austin, TX 78758",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TTX3":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"4221 Way Out West Drive, Houston, TX 77092",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TTX4":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"6627 Maple Avenue, Dallas, TX 75235",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TTX5":{
 		"state":"Texas",
 		"type":"",
 		"address":"4848 Perrin Creek 680, San Antonio, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UTX1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"Irving, TX 75014",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UTX2":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"Austin, TX 73301",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UTX3":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"Houston, TX 77001",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UTX5":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"198 Dolorosa, San Antonio, TX 78205",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UTX7":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"4601 Gold Spike Drive, Fort Worth, TX 76106",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UTX8":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2800 S Texas Avenue Suite 401, Bryan, TX 77802",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UTX9":{
 		"state":"Texas",
 		"type":"",
 		"address":"4616 W Howard Lane, AUSTIN, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUBI":{
 		"state":"Texas",
 		"type":"",
 		"address":"501 Meacham Blvd, Fort Worth, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUHE":{
 		"state":"Texas",
 		"type":"",
 		"address":"3401 Innovative Way, Mesquite, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUKH":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"1901 W Airfield Dr, DFW Airport, TX 75261",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPO":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"4808 Mountain Creek Parkway, Dallas, TX 75236",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPZ":{
 		"state":"Texas",
 		"type":"",
 		"address":"4800 Henrietta Creek Rd, Fort Worth, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XIX3":{
 		"state":"Texas",
 		"type":"",
 		"address":"1400 SOUTHPORT PKWY BLDG 7, WILMER, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XLAF":{
 		"state":"Texas",
 		"type":"",
 		"address":"1600 Roe St, Dallas, TX",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XUSB":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"14900 Frye Road, Fort Worth, TX 76155",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPJ":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"101 Mars Road, Wilmer, TX 75172",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TEM1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"2255 North 3rd Street, Temple, TX 76501",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "WAC1":{
 		"state":"Texas",
 		"type":"FC",
 		"address":"1000 N Loop 340, Waco, TX 76705",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DUT1":{
 		"state":"Utah",
 		"type":"FC",
 		"address":"3701 Atlas Way, West Valley City, UT 84120",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HSL1":{
 		"state":"Utah",
 		"type":"FC",
 		"address":"355 N. John Glenn Rd., Salt Lake City, UTH 84116 – Salt Lake County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SLC1":{
 		"state":"Utah",
 		"type":"FC",
 		"address":"777 North 5600 West, Salt Lake City, UT 8411",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SLC3":{
 		"state":"Utah",
 		"type":"FC",
 		"address":"355 N JOHN GLENN RD, Salt Lake City, Utah, US",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SLC4":{
 		"state":"Utah",
 		"type":"FC",
 		"address":"770 South Gladiola, Suite 500, Salt Lake City, Utah 84104 , Salt Lake County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUBL":{
 		"state":"Utah",
 		"type":"",
 		"address":"582 S 1100 W, Woods Cross, UT",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUCE":{
 		"state":"Utah",
 		"type":"",
 		"address":"8427 S. Old Bingham Hwy, West Jordan, UT",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SULU":{
 		"state":"Utah",
 		"type":"",
 		"address":"582 S 1100 W, Woods Cross, UT",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUOI":{
 		"state":"Utah",
 		"type":"",
 		"address":"870 North 100 East, Lehi, UT",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUSJ":{
 		"state":"Utah",
 		"type":"",
 		"address":"8427 South Old Bingham Hwy, West Jordan, UT",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUQN":{
 		"state":"Utah",
 		"type":"",
 		"address":"1711 S 4650 W, Salt Lake City, UT",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BWI1":{
 		"state":"Virginia",
 		"type":"Warehouse",
 		"address":"45121 Global Plaza, Sterling, VA 20166, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BWI4":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"165 Business Blvd, Clear Brook, VA 22624-1568",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BWI6":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"5617 Industrial Drive, Springfield, VA 22151",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DOR1":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"Pvt 7 Rd, Chesapeake, VA 23320",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DRC1":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"701 E Grace St, Richmond, VA 23219",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FVA1":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"100 Commerce Street, Springfield, VA 22150",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HRC1":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"4949 Commerce Road, Richmond, Virginia 23234 – Richmond City",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "IDT1":{
 		"state":"Virginia",
 		"type":"",
 		"address":"5617 Industrial Drive, SPRINGFIELD, VA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ORF1":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"3516 South Military Hwy, Chesapeake, VA 23323",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RIC1":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"5000 Commerce Way, Petersburg, VA 23803",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RIC2":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"1901 Meadowville Technology Parkway, Chester, VA 23836",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RIC3":{
 		"state":"Virginia",
 		"type":"SC",
 		"address":"1901 Meadowville Technology Parkway, Chester, VA 23836",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RIC5":{
 		"state":"Virginia",
 		"type":"SC",
 		"address":"11600 N Lakeridge Pkwy, Ashland, VA 23005",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RIC9":{
 		"state":"Virginia",
 		"type":"",
 		"address":"11600 N Lakeridge Pkwy, Ashland, VA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SDC1":{
 		"state":"Virginia",
 		"type":"",
 		"address":"6885 Commercial Dr., SPRINGFIELD, VA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SULC":{
 		"state":"Virginia",
 		"type":"",
 		"address":"1345 Taylor Farms Road, Suite 112, Virginia Beach, VA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UOH5":{
 		"state":"Virginia",
 		"type":"",
 		"address":"492 Central Dr, VIRGINIA BEACH, VA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UVA1":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"5617 Industrial Dr. Suite A, Springfield, VA 22151",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UVA2":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"Chesapeake, VA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UVA3":{
 		"state":"Virginia",
 		"type":"FC",
 		"address":"2034 Dabney Road, Richmond, VA 23230",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UVA4":{
 		"state":"Virginia",
 		"type":"",
 		"address":"4100 Tomlynn St, RICHMOND, VA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UVA5":{
 		"state":"Virginia",
 		"type":"",
 		"address":"492 Central Dr, VIRGINIA BEACH, VA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSE2":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"6705 E Marginal Way, Seattle, WA 98108",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ASE1":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"20202 84th Ave. S, Bellevue, WA 98004",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ASE3":{
 		"state":"Washington",
 		"type":"",
 		"address":"20526 59th Place South, Kent, Washington",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BF13":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"2700 Center Dr, DuPont, WA 98327, United States",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BFI1":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"1800 140th Avenue, E Sumner, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BFI3":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"2700 Center Drive, Dupont, WA 98327",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BFI4":{
 		"state":"Washington",
 		"type":"SC",
 		"address":"21005 64th Ave S, Kent, WA 98032",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BFI5":{
 		"state":"Washington",
 		"type":"SC",
 		"address":"Building B, 20526 59th Pl S, Kent, WA 98032",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BFI6":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"21005 64th Ave. South; Kent, Washington 98032",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BFI7":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"1800 140th Ave E, Sumner, WA 98390",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BFIX":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"1800 140th Avenue, Sumner, WA 98390",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BOS6":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"201 Beachman St, Everett, MA 2149",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DBO1":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"2064 Hewitt Ave, Everett, WA 98201",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DEV1":{
 		"state":"Washington",
 		"type":"",
 		"address":"2121 7th Ave, SEATTLE, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSE4":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"2064 Hewitt Ave, Everett, WA 98201",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSE5":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"102-104 Rainier Ave S, Renton, WA 98057",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FFI6":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"10441 SE 240th St, Kent, WA 98031",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FSE2":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"5100 15th Ave NW, Seattle, WA 98107",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FSE3":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"76 South Lander Street, Seattle, WA 98134",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FWA1":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"12601 120th Ave NE, Kirkland, WA 98034",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FWA2":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"9600 College Way N, Seattle, WA 98103",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "GEG1":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"10010 W Geiger Blvd., Spokane, Washington 99224 , Spokane County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HWA1":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"11710 118th Ave NE, Building B, Kirkland, WA 98034",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HWA2":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"11710 118th Ave NE, Building B, Kirkland, WA 98034",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "HWA3":{
 		"state":"Washington",
 		"type":"",
 		"address":"20202 84th AVE S, Kent, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ISE1":{
 		"state":"Washington",
 		"type":"",
 		"address":"2131 7th Ave, Seattle, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ISE2":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"1227 124th Ave NE Building 2 Suite A200, Bellevue, WA 98004",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ISE5":{
 		"state":"Washington",
 		"type":"",
 		"address":"20202 84th Ave South, Kent, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ISE6":{
 		"state":"Washington",
 		"type":"",
 		"address":"307 Fairview Avenue North, Seattle, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ISE8":{
 		"state":"Washington",
 		"type":"",
 		"address":"20202 84th Ave South, Kent, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "PWA1":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"2309 Milwaukee Way, Tacoma, Washington 98421 , Pierce County (Seasonal Facility)",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RSE1":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"19615 Pacific Hwy, Lynnwood, WA 98036",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RWA1":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"10501-10657 NE 37th Cir, Kirkland, WA 98033",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RWA2":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"9600 College Way N, Seattle, WA 98103",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "RWA4":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"909 5th Ave, Seattle, WA 98164",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SEA6":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"2646 Rainier Avenue, South Seattle, WA 98144",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SEA8":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"1227 124th Avenue Northeast, Bellevue, WA, 98005",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SQGH":{
 		"state":"Washington",
 		"type":"",
 		"address":"Carnation, WA, 98014. STL4, 3050 Gateway",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUED":{
 		"state":"Washington",
 		"type":"",
 		"address":"229 N Ella Rd, Spokane Valley, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SULA":{
 		"state":"Washington",
 		"type":"",
 		"address":"1380 Stonegate Way, Ferndale, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUNA":{
 		"state":"Washington",
 		"type":"",
 		"address":"4179 70th Ave East, Suite A, Fife, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUXA":{
 		"state":"Washington",
 		"type":"",
 		"address":"345 Boren Ave N, Seattle, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUXC":{
 		"state":"Washington",
 		"type":"",
 		"address":"345 Boren Ave N, Seattle, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUZA":{
 		"state":"Washington",
 		"type":"",
 		"address":"345 Boren Ave N, Seattle, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUZB":{
 		"state":"Washington",
 		"type":"",
 		"address":"345 Boren Ave N, Seattle, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUZC":{
 		"state":"Washington",
 		"type":"",
 		"address":"345 Boren Ave N, Seattle, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SWA1":{
 		"state":"Washington",
 		"type":"",
 		"address":"607 Riverside Road, EVERETT, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TIW1":{
 		"state":"Washington",
 		"type":"",
 		"address":"One Sitcum Plaza, Tacoma, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "TWA0":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"13537 Aurora Ave N, Seattle, WA 98133",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UTX4":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"PO Box 80387, Seattle, WA 98108",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UWA1":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"11710 118th Ave. N.E., Building B, Kirkland, WA 98034",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UWA2":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"13537 Aurora Ave. N., North Seattle, WA 98133",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UWA3":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"2121 8th Ave., Seattle, WA 98121",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UWA4":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"76 S Lander Street, Seattle, WA 98134",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UWA5":{
 		"state":"Washington",
 		"type":"",
 		"address":"18323 Andover Park W., Bldg. 6, SEATTLE, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VAEO":{
 		"state":"Washington",
 		"type":"",
 		"address":"20526 59th Place S., Kent, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUPM":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"22001 84th Avenue, Kent, WA 98032",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XLAI":{
 		"state":"Washington",
 		"type":"",
 		"address":"7650 S 228th St, Kent, WA",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ZSE1":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"9600 College Way N, Seattle, WA 98103",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "ZSE2":{
 		"state":"Washington",
 		"type":"FC",
 		"address":"20202 84th Ave. S, Bellevue, WA 98004",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DLV1":{
 		"state":"Wisconsin",
 		"type":"FC",
 		"address":"5501-5517 Cut-Off Rd, Boulder Junction, WI 54512",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DML1":{
 		"state":"Wisconsin",
 		"type":"FC",
 		"address":"3935 W. Mitchell St., Milwaukee, WI 53125",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "FWI1":{
 		"state":"Wisconsin",
 		"type":"FC",
 		"address":"4700 W Mitchell St, West Milwaukee, WI 53214",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "JVL1":{
 		"state":"Wisconsin",
 		"type":"",
 		"address":"3150 Colley Road, Beloit, WI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MKE1":{
 		"state":"Wisconsin",
 		"type":"FC",
 		"address":"3501 120th Ave, Kenosha, Wisconsin, 53144-7502",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MKE2":{
 		"state":"Wisconsin",
 		"type":"FC",
 		"address":"9700 South 13th Street, Oak Creek, Wisconsin 53154 , Milwaukee County",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MKE5":{
 		"state":"Wisconsin",
 		"type":"SC",
 		"address":"11211 Burlington Road, Kenosha, WI 53144",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "MKE9":{
 		"state":"Wisconsin",
 		"type":"",
 		"address":"11211 Burlington Road, Kenosha, WI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SBX2":{
 		"state":"Wisconsin",
 		"type":"",
 		"address":"4718 Helgesen Drive, Suite 1, Madison, WI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SULD":{
 		"state":"Wisconsin",
 		"type":"",
 		"address":"2020 Prairie Ln, Eau Claire, WI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPA":{
 		"state":"Wisconsin",
 		"type":"",
 		"address":"412 Technology Drive E., Menomonie, WI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "SUPB":{
 		"state":"Wisconsin",
 		"type":"",
 		"address":"412 Technology Drive E., Menomonie, WI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "UWI1":{
 		"state":"Wisconsin",
 		"type":"FC",
 		"address":"4111 W Mitchell Street, Milwaukee, WI 53215",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "VUHF":{
 		"state":"Wisconsin",
 		"type":"",
 		"address":"11111 80TH AVE, Pleasant Prairie, WI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "XIX5":{
 		"state":"Wisconsin",
 		"type":"",
 		"address":"11211 Burlington Road, KENOSHA, WI",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LIT1":{
 		"state":"Arkansas",
 		"type":"FC",
 		"address":"8900 Faulkner Lake Road, North Little Rock, AR 72117",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "LIT2":{
 		"state":"Arkansas",
 		"type":"FC",
 		"address":"14900 E McCain Blvd, North Little Rock, AR 72117",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BOI1":{
 		"state":"Idaho",
 		"type":"FC",
 		"address":"5855 S Eisenman Road, Boise, ID 83716",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "BOI2":{
 		"state":"Idaho",
 		"type":"FC",
 		"address":"5855 S Eisenman Road, Boise, ID 83716",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSM1":{
 		"state":"Iowa",
 		"type":"FC",
 		"address":"5000 NE 23rd Avenue, Altoona, IA 50009",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	},
     "DSM2":{
 		"state":"Iowa",
 		"type":"FC",
 		"address":"3200 SE Grimes Blvd, Grimes, IA 50111",
 		"warnings":[],
-		"preferredRoutes":[]
+		"routes":[]
 	}
 }}
