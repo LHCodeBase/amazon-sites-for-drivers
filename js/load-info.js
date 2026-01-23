@@ -17,19 +17,26 @@ userQuery.addEventListener('change',
 			/* grave notation doesn't work for this you must use bracket notation */
 
 			/* Warnings */
-			sites[e.target.value]["warnings"].forEach((text) => {
-				let li = document.createElement("li");
-				li.innerText = text;
-				elWarningsUl.appendChild(li);
-			})
+			if (sites[e.target.value]["warnings"].length) {
+				sites[e.target.value]["warnings"].forEach((text) => {
+					let li = document.createElement("li");
+					li.innerText = text;
+					elWarningsUl.appendChild(li);
+				})
+			} else {
+				elWarningsUl.innerText = "";
+			}
 
 			/* Route */
-			sites[e.target.value]["routes"].forEach((text) => {
-				let li = document.createElement("li");
-				li.innerText = text;
-				elRoutes.appendChild(li);
-			})
-
+			if (sites[e.target.value]["routes"].length) {
+				sites[e.target.value]["routes"].forEach((text) => {
+					let li = document.createElement("li");
+					li.innerText = text;
+					elRoutes.appendChild(li);
+				})
+			} else {
+				elRoutes.innerText = "";
+			}
 		}
 	}
 );
