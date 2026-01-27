@@ -1,4 +1,4 @@
-const userQuery = document.getElementById("site-choice");
+const userQuery = document.getElementById("site-query");
 const clearInput = document.getElementById("clear-input");
 const elSite = document.getElementById("site");
 const elWarningsUl = document.getElementById("warnings-ul");
