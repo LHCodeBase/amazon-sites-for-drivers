@@ -9,21 +9,20 @@ const welcomeMsg = "Select site";
 
 elSite.innerText = welcomeMsg;
 
-function setSite(e) {
-			if (siteIds.includes(e.target.value)) {
+function setSite(_value) {
+			if (siteIds.includes(_value)) {
 			/* Site Id */
-			elSite.innerText = e.target.value;
+			elSite.innerText = _value;
 
 			/* Take focus off nav */
 			elSite.focus();
-			
 
 			/* grave notation doesn't work for this you must use bracket notation */
 
 			/* Warnings */
 			elWarningsUl.innerText = "";
-			if (sites[e.target.value]["warnings"].length) {
-				sites[e.target.value]["warnings"].forEach((text) => {
+			if (sites[_value]["warnings"].length) {
+				sites[_value]["warnings"].forEach((text) => {
 					let li = document.createElement("li");
 					li.innerText = text;
 					elWarningsUl.appendChild(li);
@@ -32,8 +31,8 @@ function setSite(e) {
 
 			/* Route */
 			elRoutes.innerText = "";
-			if (sites[e.target.value]["routes"].length) {
-				sites[e.target.value]["routes"].forEach((text) => {
+			if (sites[_value]["routes"].length) {
+				sites[_value]["routes"].forEach((text) => {
 					let li = document.createElement("li");
 					li.innerText = text;
 					elRoutes.appendChild(li);
@@ -46,7 +45,14 @@ function setSite(e) {
 /* Clear everything first */
 elSiteQuery.addEventListener('change',
 	(e) => {
-		setSite(e);
+		setSite(e.target.value);
+	}
+);
+
+elGoButton.addEventListener('click',
+	(e) => {
+		/* this is NOT innerText */
+		setSite(elSiteQuery.value.toUpperCase());
 	}
 );
 
