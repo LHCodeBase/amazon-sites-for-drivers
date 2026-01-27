@@ -1,19 +1,22 @@
-const userQuery = document.getElementById("site-query");
+const elSiteQuery = document.getElementById("site-query");
 const clearInput = document.getElementById("clear-input");
 const elSite = document.getElementById("site");
 const elWarningsUl = document.getElementById("warnings-ul");
 const elRoutes = document.getElementById("preferredRoutes");
+const elGoButton = document.getElementById("go-button");
+const elNav = document.getElementById("nav");
 const welcomeMsg = "Select site";
 
 elSite.innerText = welcomeMsg;
 
-
-/* Clear everything first */
-userQuery.addEventListener('change',
-	(e) => {
-		if (siteIds.includes(e.target.value)) {
+function setSite(e) {
+			if (siteIds.includes(e.target.value)) {
 			/* Site Id */
 			elSite.innerText = e.target.value;
+
+			/* Take focus off nav */
+			elSite.focus();
+			
 
 			/* grave notation doesn't work for this you must use bracket notation */
 
@@ -37,11 +40,18 @@ userQuery.addEventListener('change',
 				})
 			}
 		}
+}
+
+
+/* Clear everything first */
+elSiteQuery.addEventListener('change',
+	(e) => {
+		setSite(e);
 	}
 );
 
 
-userQuery.addEventListener('click',
+elSiteQuery.addEventListener('click',
 	(e) => {
 		if (siteIds.includes(e.target.value)) {
 			e.target.value = "";
@@ -51,7 +61,7 @@ userQuery.addEventListener('click',
 
 clearInput.addEventListener('click', 
 	(e) => {
-		userQuery.value = "";
+		elSiteQuery.value = "";
 		elSite.innerText = welcomeMsg;
 		elWarningsUl.innerText = "";
 		elRoutes.innerText = "";
