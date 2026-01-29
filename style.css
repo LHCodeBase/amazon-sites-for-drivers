@@ -1,16 +1,31 @@
-body {
-	height: 100%;
-	background: linear-gradient(blue, lightblue);
+:root {
+	--main-background-color:linear-gradient(blue, lightblue);
+	--nav-background-color: #fff;
 }
 
-header {
-	display: grid;
-	grid-template-columns: repeat(3, 1fr);
-	grid-template-rows: auto;
+body {
+	height: 100%;
+	background: var(--main-background-color);
+}
+
+@media (width >= 700px) {
+	header {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		grid-template-rows: auto;
+	}
+}
+
+@media (max-width: 700px) {
+	header {
+		display: grid;
+		grid-template-columns: 25% 50% 25%;
+		grid-template-rows: auto;
+	}
 }
 
 header > nav {
-	background-color: #fff;
+	background-color: var(--nav-background-color)
 }
 
 nav {
@@ -38,7 +53,9 @@ button {
 	margin-left: 4px;
 }
 
-
+#go-button {
+	width: 7ch;
+}
 
 footer {
 	position: fixed;
