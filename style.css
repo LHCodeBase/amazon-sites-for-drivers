@@ -85,10 +85,12 @@ input[name="issueType"] {
 #issueTextContainer {
 	margin-top: 1.5rem;
 }
+
 #issueText {
 	margin-block: .5rem;
 	box-sizing: border-box;
 	width: 100%;
+	caret-color: rgb(50 115 246);
 }
 
 /* 50 115 246 */
