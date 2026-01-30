@@ -67,6 +67,35 @@ button {
 	box-shadow: 1px 1px 4px black;
 }
 
+#add:active {
+	transform: translate(.25rem, .25rem);
+}
+
+/* start dialog box */
+
+dialog {
+	min-width: 50%;
+	font-size: 2rem;
+}
+
+input[name="issueType"] {
+	margin-left: 1.4rem;
+}
+
+#issueTextContainer {
+	margin-top: 1.5rem;
+}
+#issueText {
+	margin-block: .5rem;
+	box-sizing: border-box;
+	width: 100%;
+}
+
+/* 50 115 246 */
+
+/* end dialog box */
+
+
 
 footer {
 	position: fixed;

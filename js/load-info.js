@@ -1,10 +1,13 @@
 const elSiteQuery = document.getElementById("site-query");
-const clearInput = document.getElementById("clear-input");
+const elClearInput = document.getElementById("clear-input");
 const elSite = document.getElementById("site");
 const elWarningsUl = document.getElementById("warnings-ul");
 const elRoutes = document.getElementById("preferredRoutes");
 const elGoButton = document.getElementById("go-button");
 const elNav = document.getElementById("nav");
+const elAdd = document.getElementById("add");
+const elDialog = document.getElementById("dialog");
+
 const welcomeMsg = "Select site";
 
 elSite.innerText = welcomeMsg;
@@ -65,7 +68,7 @@ elSiteQuery.addEventListener('click',
 	}
 );
 
-clearInput.addEventListener('click', 
+elClearInput.addEventListener('click', 
 	(e) => {
 		elSiteQuery.value = "";
 		elSite.innerText = welcomeMsg;
@@ -74,3 +77,13 @@ clearInput.addEventListener('click',
 	}
 );
 
+function showAddOptions() {
+	elDialog.showModal();
+	return;
+};
+
+elAdd.addEventListener('click', 
+	(e) => {
+		showAddOptions();
+	}
+)

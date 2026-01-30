@@ -27,6 +27,27 @@
 		<p id="warnings-p" class="info"><ul id="warnings-ul" class="info"></ul></p>
 		<p id="preferredRoutes" class="info"></p>
 	</section>
+	<dialog id="dialog">
+		<form>
+			<fieldset>
+				<legend>Choose the type of help:</legend>
+				<div>
+					<input type="radio" id="issueTypeWarning" name="issueType" />
+					<label for="issueTypeWarning">Warning</label>
+				</div>
+				<div>
+					<input type="radio" id="issueTypeDirections" name="issueType" />
+					<label for="issueTypeDirections">Directions</label>
+				</div>
+				<div id="issueTextContainer">
+					<label for="issueText">Please be direct and helpful:</label>
+					<br />
+					<textarea id="issueText" name="issueText" rows="6"></textarea>
+				</div>
+				<input type="submit" value="Send it!" />
+			</fieldset>
+		</form>
+	</dialog>
 </main>
 <footer>
 	<p>This site is meant to be used as a collaborative effort amongst drivers, and should not be taken as fact.  Please use your own judgement, and feel free to help if something is incorrect. As always, you are the captain of your ship.</p>
