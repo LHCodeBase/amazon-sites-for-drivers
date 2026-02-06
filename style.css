@@ -71,6 +71,20 @@ button {
 	transform: translate(.25rem, .25rem);
 }
 
+
+/* start main content */
+
+#routes-ul li::marker {
+	content: '\21B3  ';
+	background-color: green;
+}
+
+
+#warnings-ul li::marker {
+	content: '\26A0  ';
+	color: orange;
+}
+
 /* start dialog box */
 
 dialog {

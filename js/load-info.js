@@ -2,7 +2,8 @@ const elSiteQuery = document.getElementById("site-query");
 const elClearInput = document.getElementById("clear-input");
 const elSite = document.getElementById("site");
 const elWarningsUl = document.getElementById("warnings-ul");
-const elRoutes = document.getElementById("preferredRoutes");
+const elRoutes = document.getElementById("routes-p");
+const elRoutesUL = document.getElementById("routes-ul");
 const elGoButton = document.getElementById("go-button");
 const elNav = document.getElementById("nav");
 const elAdd = document.getElementById("add");
@@ -37,12 +38,12 @@ function setSite(_value) {
 			}
 
 			/* Route */
-			elRoutes.innerText = "";
+			elRoutesUL.innerText = "";
 			if (sites[_value]["routes"].length) {
 				sites[_value]["routes"].forEach((text) => {
 					let li = document.createElement("li");
 					li.innerText = text;
-					elRoutes.appendChild(li);
+					elRoutesUL.appendChild(li);
 				})
 			}
 		}
@@ -77,7 +78,7 @@ elClearInput.addEventListener('click',
 		elSiteQuery.value = "";
 		elSite.innerText = welcomeMsg;
 		elWarningsUl.innerText = "";
-		elRoutes.innerText = "";
+		elRoutesUL.innerText = "";
 	}
 );
 
