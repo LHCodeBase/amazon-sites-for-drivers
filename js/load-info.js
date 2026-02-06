@@ -7,6 +7,7 @@ const elGoButton = document.getElementById("go-button");
 const elNav = document.getElementById("nav");
 const elAdd = document.getElementById("add");
 const elDialog = document.getElementById("dialog");
+const elLegend = document.getElementById("legend");
 
 const welcomeMsg = "Select site";
 
@@ -16,6 +17,9 @@ function setSite(_value) {
 			if (siteIds.includes(_value)) {
 			/* Site Id */
 			elSite.innerText = _value;
+
+			/* Dialog */
+			elLegend.innerText = `Choose the type of help for ${_value}:`
 
 			/* Take focus off nav */
 			elSite.focus();
