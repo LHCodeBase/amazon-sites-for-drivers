@@ -1,818 +1,822 @@
-{"sites":{
-    "DIN1":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"1861 Monument Cir, Indianapolis, IN 46204",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DIN6":{
-		"state":"Indiana",
-		"type":"",
-		"address":"8610 Avionics Dr, Fort Wayne, IN 46809, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "FWA4":{
-		"state":"Indiana",
-		"type":"",
-		"address":"9798 Smith Rd, Fort Wayne, IN 46809, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "FWA6":{
-		"state":"Indiana",
-		"type":"",
-		"address":"5510 Flaugh Rd, Fort Wayne, IN 46818, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "IND1":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"4255 Anson Boulevard, Whitestown, IN 46075",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "IND2":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"715 Airtech Parkway, Plainfield, IN 46168",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "IND3":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"717 Airtech Parkway, Plainfield, IN 46168",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "IND4":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"710 South Girls School Road, Indianapolis, IN 46214",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "IND5":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"800 S Perry Road, Plainfield, IN 46168",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "IND6":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"1453 10th Street, Jeffersonville, IN 47130",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "IND7":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"9101 Orly Dr, Indianapolis, IN 46241",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "IND8":{
-		"state":"Indiana",
-		"type":"Return Center",
-		"address":"710 South Girls School Rd. Indianapolis, IN 46214 – Marion County",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "IND9":{
-		"state":"Indiana",
-		"type":"Logistics service",
-		"address":"1151 S GRAHAM RD, Greenwood, Indiana, US",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "MQJ2":{
-		"state":"Indiana",
-		"type":"",
-		"address":"19 Bob Glidden Blvd, Whiteland, IN",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "PIN1":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"6161 Decatur Blvd, Indianapolis, Indiana 46241 , Marion County (Seasonal Facility)",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "PISA":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"900 Patrol Rd, Jeffersonville, IN 47130",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "PUR1":{
-		"state":"Indiana",
-		"type":"",
-		"address":"1198 Third Street, Krach Leadership Center Room 169, West Lafayette, IN",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "SDF8":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"900 Patrol Road, Jeffersonville, IN 47130",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "SUOJ":{
-		"state":"Indiana",
-		"type":"",
-		"address":"1615 Fletcher Ave, FORT WAYNE, IN",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "TIN1":{
-		"state":"Indiana",
-		"type":"",
-		"address":"710 S. Girls School Road, Indianapolis, IN",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "UIN1":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"505 S Tibbs Ave, Indianapolis, IN 46241",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "VUHA":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"700 Chase Street, Gary, IN 46404",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "VUMC":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"650 Commerce Pkwy W Drive, Greenwood, IN 46143",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "VUQD":{
-		"state":"Indiana",
-		"type":"",
-		"address":"3101 IN-62, Mt Vernon, IN",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "VUQF":{
-		"state":"Indiana",
-		"type":"",
-		"address":"2100 Innovation Blvd, Mooresville, IN",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "VUQH":{
-		"state":"Indiana",
-		"type":"",
-		"address":"381 Airtech Pkwy, Plainfeild, IN",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "VUQO":{
-		"state":"Indiana",
-		"type":"",
-		"address":"2425 E. Perry Rd, PLAINFIELD, IN",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "XUSE":{
-		"state":"Indiana",
-		"type":"FC",
-		"address":"5100 S Indianapolis Road, Whitestown, IN 46075",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DDT1":{
-		"state":"Michigan",
-		"type":"",
-		"address":"1400 E 10 Mile Rd, Ste 190, Hazel Park, MI 48030, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DDT3":{
-		"state":"Michigan",
-		"type":"",
-		"address":"28415 Automation Blvd, Wixom, MI 48393, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DDT6":{
-		"state":"Michigan",
-		"type":"",
-		"address":"1300 Featherstone Rd, Pontiac MI, 48342",
-		"warnings":[],
-		"routes":[
-            "From 75N: Take the 2nd M-59 exit. It's a 25mph curve, so you'll start slowing down in the lane of travel.  Take the 1st exit ~1/4 mile RHS, then left at the ramp light.  LHT at 2nd light - Featherstone.  At the top of the hill *before the light* is an entrance that looks like trucks don't belong - turn in there, and go all the way down."
-        ],
-		"image":""
-	},
-    "DDT4":{
-		"state":"Michigan",
-		"type":"",
-		"address":"7009 W Mount Hope Hwy Lansing, MI 48917 United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DTW5":{
-		"state":"Michigan",
-		"type":"SC",
-		"address":"19991 Brownstown Center Dr, Brownstown Charter Twp, MI 48183, United State",
-		"warnings":[
-			"Do not enter from King. You must approach the site from the north."
-		],
-		"routes":[
-			"From I-75 S: Take Sibley Rd. exit. Make a left at the stop sign. ..."
-		],
-		"image":""
-	},
-    "DTW8":{
-		"state":"Michigan",
-		"type":"",
-		"address":"9075 N Haggerty Rd, Plymouth, MI 48170, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DET2":{
-		"state":"Michigan",
-		"type":"FC",
-		"address":"50500 Mound Rd, Shelby Township, MI 48317",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DET3":{
-		"state":"Michigan",
-		"type":"",
-		"address":"1200 Featherstone Rd, Pontiac MI, 48342",
-		"warnings":[
-            "PS 100s are off site.  Address is 1400 Featherstone Rd. As you leave DET3, make a left at the stop sign, go to the stop light, and make a left.  Entrance will be down the road LHS."
-        ],
-		"routes":["From 75N: Take the 2nd M-59 exit. It's a 25mph curve, so you'll start slowing down in the lane of travel.  Take the 1st exit ~1/4 mile RHS. At the exit, stay in the far left lane and immediately after turning, get in the left 2 turn lanes. Go all the way down to guardshack."],
-		"image":""
-	},
-    "DET6":{
-		"state":"Michigan",
-		"type":"FC",
-		"address":"20110 Woodward Ave Detroit, MI 48203 United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DTW2":{
-		"state":"Michigan",
-		"type":"FC",
-		"address":"32801 Ecorse Rd, Romulus, MI 48174, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DTW9":{
-		"state":"Michigan",
-		"type":"FC",
-		"address":"33700 Prescott St, Romulus, MI 48174, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DGR3":{
-		"state":"Michigan",
-		"type":"",
-		"address":"",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DGR6":{
-		"state":"Michigan",
-		"type":"",
-		"address":"3951 Trade Dr Grand Rapids, MI 49508 United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DGR8":{
-		"state":"Michigan",
-		"type":"",
-		"address":"3415 Northridge Dr NW, Walker, MI 49544, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DTW3":{
-		"state":"Michigan",
-		"type":"FC",
-		"address":"23 mile and mound roads, Shelby, MI, 48316",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "HDT9":{
-		"state":"Michigan",
-		"type":"",
-		"address":"33701 Prescott St, Romulus, MI 48174, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "LAN2":{
-		"state":"Michigan",
-		"type":"",
-		"address":"6500 W Mount Hope Hwy Lansing, MI 48917 United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "GRR1":{
-		"state":"Michigan",
-		"type":"FC",
-		"address":"4500 68th St. SE, Caledonia (Gaines Township), Michigan 49316 , Kent County",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "SUHH":{
-		"state":"Michigan",
-		"type":"",
-		"address":"45410 Van Dyke, Utica, MI",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "SUSI":{
-		"state":"Michigan",
-		"type":"",
-		"address":"7194 Big Sky Drive Suite 5, Holly, MI",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "SUTA":{
-		"state":"Michigan",
-		"type":"",
-		"address":"4503 Airwest DR SE, Kentwood, MI",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "UMI2":{
-		"state":"Michigan",
-		"type":"",
-		"address":"999 Chicago Road, Troy, MI",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "VTW1":{
-		"state":"",
-		"type":"",
-		"address":"",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "XUSR":{
-		"state":"Michigan",
-		"type":"",
-		"address":"5425 Dixie Highway, Saginaw, MI",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DET1":{
-		"state":"Michigan",
-		"type":"FC",
-		"address":"39000 Amrhein Rd, Livonia, MI 48150",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DTW1":{
-		"state":"Michigan",
-		"type":"FC",
-		"address":"39000 Amrhein Rd., Livonia, MI 48150-1043",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DTW4":{
-		"state":"Michigan",
-		"type":"FC",
-		"address":"1837 S Telegraph Road, Pontiac, MI 48341",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CLE1":{
-		"state":"Ohio",
-		"type":"",
-		"address":"4641 Warrensville Center Rd, North Randall, OH 44128",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CLE3":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"1115 Babbitt Rd, Euclid, OH 44132, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "AKC1":{
-		"state":"Ohio",
-		"type":"",
-		"address":"2400 ROMIG RD, Summit, Ohio",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CAK1":{
-		"state":"Ohio",
-		"type":"",
-		"address":"290 E Exchange Street, Akron, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CIN1":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"UC MainStreet, Cincinnati, OH 45219",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CLE2":{
-		"state":"Ohio",
-		"type":"Corporate Office",
-		"address":"21500 Emery Rd, North Randall, OH 44128",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CLE5":{
-		"state":"Ohio",
-		"type":"SC",
-		"address":"8685 Independence Parkway, Twinsburg, OH 44087",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CLE6":{
-		"state":"Ohio",
-		"type":"",
-		"address":"23371 Aurora Road, Bedford Heights, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CMH0":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"11903 National RD SW Etna Township Park, Etna, OH 43062",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CMH1":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"11999 National Road SW Etna, OH 43062-7793 United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CMH2":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"2700 Rohr Road, Groveport, OH 43125",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CMH3":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"700 Gateway Blvd., Monroe, OH 450501848 , Warren County",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CMH4":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"1550 W Main St., West Jefferson, Ohio 43162 , Madison County",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "CMH6":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"3538 TRADEPORT CT, Lockbourne, Ohio, US",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DCL1":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"790-796 E 222nd St, Euclid, OH 44123",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DCL2":{
-		"state":"Ohio",
-		"type":"AMZL",
-		"address":"2823 Gilchrist Rd, Akron, OH 44305, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DCL3":{
-		"state":"Ohio",
-		"type":"AMZL",
-		"address":"12111 Debartolo Dr, North Jackson, OH 44451, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DCL5":{
-		"state":"Ohio",
-		"type":"",
-		"address":"2040 S Reynolds Rd, Toledo, OH 43614, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DCM3":{
-		"state":"Ohio",
-		"type":"",
-		"address":"43500 Victory Pkwy, Solon, OH 44139, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "FMD1":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"101-199 Mckinley Ave SW, Canton, OH 44702",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "HCM1":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"3538 TradePort Ct, Building 2, Lockbourne, OH 43137 – Franklin County",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "KILN":{
-		"state":"Ohio",
-		"type":"",
-		"address":"150 Ruane Dr, Wilmington, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "LCK1":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"Obetz, OH 43207",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "LPR5":{
-		"state":"Ohio",
-		"type":"",
-		"address":"",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "OKC9":{
-		"state":"Ohio",
-		"type":"",
-		"address":"1155 Babbitt Rd., Euclid, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "OSU1":{
-		"state":"Ohio",
-		"type":"",
-		"address":"2114 N. High Street, Columbus, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "PCW1":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"27400 Crossroads Pkwy, Rossford, OH 43460, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "POH1":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"3880 Groveport Road, Obetz, Ohio 43207 , Franklin County (Seasonal Facility)",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "ROH2":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"1 Capitol Square, Columbus, OH 43215",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "SUAB":{
-		"state":"Ohio",
-		"type":"",
-		"address":"2800 CORPORATE EXCHANGE DRIVE, Columbus, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "SUAS":{
-		"state":"Ohio",
-		"type":"",
-		"address":"2800 Corporate Exchange Drive, Columbus, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "SUHO":{
-		"state":"Ohio",
-		"type":"",
-		"address":"355 Tomahawk Drive Suite3, Maumee, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "SUJE":{
-		"state":"Ohio",
-		"type":"",
-		"address":"5124 Cleveland Rd, Wooster, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "SUPC":{
-		"state":"Ohio",
-		"type":"",
-		"address":"503 West High St, Hicksville, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "TBD":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"100 Euclid Square Ma…, Euclid, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "TBD8":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"Etna Township Park, Etna, OH 43062",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "TBD9":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"Alum Creek Drive, Obetz, OH 43207",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "UMD1":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"101-199 Mckinley Ave SW, Canton, OH 44702",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "UOH1":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"Winton Hills, Cincinnati, OH 45232",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "UOH2":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"3563 Interchange Rd, Columbus, OH 43204",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "UOH4":{
-		"state":"Ohio",
-		"type":"",
-		"address":"4401 Equity Dr, COLUMBUS, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "VUHG":{
-		"state":"Ohio",
-		"type":"",
-		"address":"28625 Fountain Parkway, Solon, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "VUPW":{
-		"state":"Ohio",
-		"type":"",
-		"address":"8778 Le St Dr, West Chester, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "XLAE":{
-		"state":"Ohio",
-		"type":"",
-		"address":"5330 Crosswind Dr, Columbus, OH",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "DAY3":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"700 Gateway Blvd, Monroe, OH 45050, United States",
-		"warnings":[],
-		"routes":[],
-		"image":""
-	},
-    "AKR1":{
-		"state":"Ohio",
-		"type":"FC",
-		"address":"1200 S Arlington Street, Akron, OH 44306",
-		"warnings":[],
-		"routes":[],
-		"image":""
+{
+	"sites": {
+		"DIN1": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "1861 Monument Cir, Indianapolis, IN 46204",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DIN6": {
+			"state": "Indiana",
+			"type": "",
+			"address": "8610 Avionics Dr, Fort Wayne, IN 46809, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"FWA4": {
+			"state": "Indiana",
+			"type": "",
+			"address": "9798 Smith Rd, Fort Wayne, IN 46809, United States",
+			"warnings": [],
+			"routes": [],
+			"image": "./img/sites/FWA4.jpg"
+		},
+		"FWA6": {
+			"state": "Indiana",
+			"type": "",
+			"address": "5510 Flaugh Rd, Fort Wayne, IN 46818, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"IND1": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "4255 Anson Boulevard, Whitestown, IN 46075",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"IND2": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "715 Airtech Parkway, Plainfield, IN 46168",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"IND3": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "717 Airtech Parkway, Plainfield, IN 46168",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"IND4": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "710 South Girls School Road, Indianapolis, IN 46214",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"IND5": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "800 S Perry Road, Plainfield, IN 46168",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"IND6": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "1453 10th Street, Jeffersonville, IN 47130",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"IND7": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "9101 Orly Dr, Indianapolis, IN 46241",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"IND8": {
+			"state": "Indiana",
+			"type": "Return Center",
+			"address": "710 South Girls School Rd. Indianapolis, IN 46214 \u2013 Marion County",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"IND9": {
+			"state": "Indiana",
+			"type": "Logistics service",
+			"address": "1151 S GRAHAM RD, Greenwood, Indiana, US",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"MQJ2": {
+			"state": "Indiana",
+			"type": "",
+			"address": "19 Bob Glidden Blvd, Whiteland, IN",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"PIN1": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "6161 Decatur Blvd, Indianapolis, Indiana 46241 , Marion County (Seasonal Facility)",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"PISA": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "900 Patrol Rd, Jeffersonville, IN 47130",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"PUR1": {
+			"state": "Indiana",
+			"type": "",
+			"address": "1198 Third Street, Krach Leadership Center Room 169, West Lafayette, IN",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"SDF8": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "900 Patrol Road, Jeffersonville, IN 47130",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"SUOJ": {
+			"state": "Indiana",
+			"type": "",
+			"address": "1615 Fletcher Ave, FORT WAYNE, IN",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"TIN1": {
+			"state": "Indiana",
+			"type": "",
+			"address": "710 S. Girls School Road, Indianapolis, IN",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"UIN1": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "505 S Tibbs Ave, Indianapolis, IN 46241",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"VUHA": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "700 Chase Street, Gary, IN 46404",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"VUMC": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "650 Commerce Pkwy W Drive, Greenwood, IN 46143",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"VUQD": {
+			"state": "Indiana",
+			"type": "",
+			"address": "3101 IN-62, Mt Vernon, IN",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"VUQF": {
+			"state": "Indiana",
+			"type": "",
+			"address": "2100 Innovation Blvd, Mooresville, IN",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"VUQH": {
+			"state": "Indiana",
+			"type": "",
+			"address": "381 Airtech Pkwy, Plainfeild, IN",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"VUQO": {
+			"state": "Indiana",
+			"type": "",
+			"address": "2425 E. Perry Rd, PLAINFIELD, IN",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"XUSE": {
+			"state": "Indiana",
+			"type": "FC",
+			"address": "5100 S Indianapolis Road, Whitestown, IN 46075",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DDT1": {
+			"state": "Michigan",
+			"type": "",
+			"address": "1400 E 10 Mile Rd, Ste 190, Hazel Park, MI 48030, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DDT3": {
+			"state": "Michigan",
+			"type": "",
+			"address": "28415 Automation Blvd, Wixom, MI 48393, United States",
+			"warnings": [],
+			"routes": [],
+			"image": "./img/sites/DDT3.jpg"
+		},
+		"DDT6": {
+			"state": "Michigan",
+			"type": "",
+			"address": "1300 Featherstone Rd, Pontiac MI, 48342",
+			"warnings": [],
+			"routes": [
+				"From 75N: Take the 2nd M-59 exit. It's a 25mph curve, so you'll start slowing down in the lane of travel.  Take the 1st exit ~1/4 mile RHS, then left at the ramp light.  LHT at 2nd light - Featherstone.  At the top of the hill *before the light* is an entrance that looks like trucks don't belong - turn in there, and go all the way down."
+			],
+			"image": "./img/sites/DDT6.jpg"
+		},
+		"DDT4": {
+			"state": "Michigan",
+			"type": "",
+			"address": "7009 W Mount Hope Hwy Lansing, MI 48917 United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DTW5": {
+			"state": "Michigan",
+			"type": "SC",
+			"address": "19991 Brownstown Center Dr, Brownstown Charter Twp, MI 48183, United State",
+			"warnings": [
+				"Do not enter from King. You must approach the site from the north."
+			],
+			"routes": [
+				"From I-75 S: Take Sibley Rd. exit. Make a left at the stop sign. ..."
+			],
+			"image": "./img/sites/DTW5.jpg"
+		},
+		"DTW8": {
+			"state": "Michigan",
+			"type": "",
+			"address": "9075 N Haggerty Rd, Plymouth, MI 48170, United States",
+			"warnings": [],
+			"routes": [],
+			"image": "./img/sites/DTW8.jpg"
+		},
+		"DET2": {
+			"state": "Michigan",
+			"type": "FC",
+			"address": "50500 Mound Rd, Shelby Township, MI 48317",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DET3": {
+			"state": "Michigan",
+			"type": "",
+			"address": "1200 Featherstone Rd, Pontiac MI, 48342",
+			"warnings": [
+				"PS 100s are off site.  Address is 1400 Featherstone Rd. As you leave DET3, make a left at the stop sign, go to the stop light, and make a left.  Entrance will be down the road LHS."
+			],
+			"routes": [
+				"From 75N: Take the 2nd M-59 exit. It's a 25mph curve, so you'll start slowing down in the lane of travel.  Take the 1st exit ~1/4 mile RHS. At the exit, stay in the far left lane and immediately after turning, get in the left 2 turn lanes. Go all the way down to guardshack."
+			],
+			"image": "./img/sites/DET3.jpg"
+		},
+		"DET6": {
+			"state": "Michigan",
+			"type": "FC",
+			"address": "20110 Woodward Ave Detroit, MI 48203 United States",
+			"warnings": [],
+			"routes": [],
+			"image": "./img/sites/DET6.jpg"
+		},
+		"DTW2": {
+			"state": "Michigan",
+			"type": "FC",
+			"address": "32801 Ecorse Rd, Romulus, MI 48174, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DTW9": {
+			"state": "Michigan",
+			"type": "FC",
+			"address": "33700 Prescott St, Romulus, MI 48174, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DGR3": {
+			"state": "Michigan",
+			"type": "",
+			"address": "",
+			"warnings": [],
+			"routes": [],
+			"image": "./img/sites/DGR3.jpg"
+		},
+		"DGR6": {
+			"state": "Michigan",
+			"type": "",
+			"address": "3951 Trade Dr Grand Rapids, MI 49508 United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DGR8": {
+			"state": "Michigan",
+			"type": "",
+			"address": "3415 Northridge Dr NW, Walker, MI 49544, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DTW3": {
+			"state": "Michigan",
+			"type": "FC",
+			"address": "23 mile and mound roads, Shelby, MI, 48316",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"HDT9": {
+			"state": "Michigan",
+			"type": "",
+			"address": "33701 Prescott St, Romulus, MI 48174, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"LAN2": {
+			"state": "Michigan",
+			"type": "",
+			"address": "6500 W Mount Hope Hwy Lansing, MI 48917 United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"GRR1": {
+			"state": "Michigan",
+			"type": "FC",
+			"address": "4500 68th St. SE, Caledonia (Gaines Township), Michigan 49316 , Kent County",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"SUHH": {
+			"state": "Michigan",
+			"type": "",
+			"address": "45410 Van Dyke, Utica, MI",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"SUSI": {
+			"state": "Michigan",
+			"type": "",
+			"address": "7194 Big Sky Drive Suite 5, Holly, MI",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"SUTA": {
+			"state": "Michigan",
+			"type": "",
+			"address": "4503 Airwest DR SE, Kentwood, MI",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"UMI2": {
+			"state": "Michigan",
+			"type": "",
+			"address": "999 Chicago Road, Troy, MI",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"VTW1": {
+			"state": "",
+			"type": "",
+			"address": "",
+			"warnings": [],
+			"routes": [],
+			"image": "./img/sites/VTW1.jpg"
+		},
+		"XUSR": {
+			"state": "Michigan",
+			"type": "",
+			"address": "5425 Dixie Highway, Saginaw, MI",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DET1": {
+			"state": "Michigan",
+			"type": "FC",
+			"address": "39000 Amrhein Rd, Livonia, MI 48150",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DTW1": {
+			"state": "Michigan",
+			"type": "FC",
+			"address": "39000 Amrhein Rd., Livonia, MI 48150-1043",
+			"warnings": [],
+			"routes": [],
+			"image": "./img/sites/DTW1.jpg"
+		},
+		"DTW4": {
+			"state": "Michigan",
+			"type": "FC",
+			"address": "1837 S Telegraph Road, Pontiac, MI 48341",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CLE1": {
+			"state": "Ohio",
+			"type": "",
+			"address": "4641 Warrensville Center Rd, North Randall, OH 44128",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CLE3": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "1115 Babbitt Rd, Euclid, OH 44132, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"AKC1": {
+			"state": "Ohio",
+			"type": "",
+			"address": "2400 ROMIG RD, Summit, Ohio",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CAK1": {
+			"state": "Ohio",
+			"type": "",
+			"address": "290 E Exchange Street, Akron, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CIN1": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "UC MainStreet, Cincinnati, OH 45219",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CLE2": {
+			"state": "Ohio",
+			"type": "Corporate Office",
+			"address": "21500 Emery Rd, North Randall, OH 44128",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CLE5": {
+			"state": "Ohio",
+			"type": "SC",
+			"address": "8685 Independence Parkway, Twinsburg, OH 44087",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CLE6": {
+			"state": "Ohio",
+			"type": "",
+			"address": "23371 Aurora Road, Bedford Heights, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CMH0": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "11903 National RD SW Etna Township Park, Etna, OH 43062",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CMH1": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "11999 National Road SW Etna, OH 43062-7793 United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CMH2": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "2700 Rohr Road, Groveport, OH 43125",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CMH3": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "700 Gateway Blvd., Monroe, OH 450501848 , Warren County",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CMH4": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "1550 W Main St., West Jefferson, Ohio 43162 , Madison County",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"CMH6": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "3538 TRADEPORT CT, Lockbourne, Ohio, US",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DCL1": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "790-796 E 222nd St, Euclid, OH 44123",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DCL2": {
+			"state": "Ohio",
+			"type": "AMZL",
+			"address": "2823 Gilchrist Rd, Akron, OH 44305, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DCL3": {
+			"state": "Ohio",
+			"type": "AMZL",
+			"address": "12111 Debartolo Dr, North Jackson, OH 44451, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DCL5": {
+			"state": "Ohio",
+			"type": "",
+			"address": "2040 S Reynolds Rd, Toledo, OH 43614, United States",
+			"warnings": [],
+			"routes": [],
+			"image": "./img/sites/DCL5.jpg"
+		},
+		"DCM3": {
+			"state": "Ohio",
+			"type": "",
+			"address": "43500 Victory Pkwy, Solon, OH 44139, United States",
+			"warnings": [],
+			"routes": [],
+			"image": "./img/sites/DCM3.jpg"
+		},
+		"FMD1": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "101-199 Mckinley Ave SW, Canton, OH 44702",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"HCM1": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "3538 TradePort Ct, Building 2, Lockbourne, OH 43137 \u2013 Franklin County",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"KILN": {
+			"state": "Ohio",
+			"type": "",
+			"address": "150 Ruane Dr, Wilmington, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"LCK1": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "Obetz, OH 43207",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"LPR5": {
+			"state": "Ohio",
+			"type": "",
+			"address": "",
+			"warnings": [],
+			"routes": [],
+			"image": "./img/sites/LPR5.jpg"
+		},
+		"OKC9": {
+			"state": "Ohio",
+			"type": "",
+			"address": "1155 Babbitt Rd., Euclid, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"OSU1": {
+			"state": "Ohio",
+			"type": "",
+			"address": "2114 N. High Street, Columbus, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"PCW1": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "27400 Crossroads Pkwy, Rossford, OH 43460, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"POH1": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "3880 Groveport Road, Obetz, Ohio 43207 , Franklin County (Seasonal Facility)",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"ROH2": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "1 Capitol Square, Columbus, OH 43215",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"SUAB": {
+			"state": "Ohio",
+			"type": "",
+			"address": "2800 CORPORATE EXCHANGE DRIVE, Columbus, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"SUAS": {
+			"state": "Ohio",
+			"type": "",
+			"address": "2800 Corporate Exchange Drive, Columbus, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"SUHO": {
+			"state": "Ohio",
+			"type": "",
+			"address": "355 Tomahawk Drive Suite3, Maumee, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"SUJE": {
+			"state": "Ohio",
+			"type": "",
+			"address": "5124 Cleveland Rd, Wooster, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"SUPC": {
+			"state": "Ohio",
+			"type": "",
+			"address": "503 West High St, Hicksville, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"TBD": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "100 Euclid Square Ma\u2026, Euclid, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"TBD8": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "Etna Township Park, Etna, OH 43062",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"TBD9": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "Alum Creek Drive, Obetz, OH 43207",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"UMD1": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "101-199 Mckinley Ave SW, Canton, OH 44702",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"UOH1": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "Winton Hills, Cincinnati, OH 45232",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"UOH2": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "3563 Interchange Rd, Columbus, OH 43204",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"UOH4": {
+			"state": "Ohio",
+			"type": "",
+			"address": "4401 Equity Dr, COLUMBUS, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"VUHG": {
+			"state": "Ohio",
+			"type": "",
+			"address": "28625 Fountain Parkway, Solon, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"VUPW": {
+			"state": "Ohio",
+			"type": "",
+			"address": "8778 Le St Dr, West Chester, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"XLAE": {
+			"state": "Ohio",
+			"type": "",
+			"address": "5330 Crosswind Dr, Columbus, OH",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"DAY3": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "700 Gateway Blvd, Monroe, OH 45050, United States",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		},
+		"AKR1": {
+			"state": "Ohio",
+			"type": "FC",
+			"address": "1200 S Arlington Street, Akron, OH 44306",
+			"warnings": [],
+			"routes": [],
+			"image": ""
+		}
 	}
-}}
+}

@@ -9,6 +9,7 @@ const elNav = document.getElementById("nav");
 const elAdd = document.getElementById("add");
 const elDialog = document.getElementById("dialog");
 const elLegend = document.getElementById("legend");
+const elImage = document.getElementById("image");
 
 const welcomeMsg = "Select site";
 
@@ -45,6 +46,11 @@ function setSite(_value) {
 					li.innerText = text;
 					elRoutesUL.appendChild(li);
 				})
+			}
+
+			/* Image */
+			if (sites[_value]["image"].length) {
+				elImage.setAttribute("src", sites[_value]["image"]);
 			}
 		}
 }
